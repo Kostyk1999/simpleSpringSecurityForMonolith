@@ -1,0 +1,13 @@
+com\trysecuritty\auth\service\SecurityServiceImpl.class
+com\trysecuritty\auth\validator\UserValidator.class
+com\trysecuritty\auth\model\User.class
+com\trysecuritty\auth\repository\UserRepository.class
+com\trysecuritty\auth\service\UserDetailsServiceImpl.class
+com\trysecuritty\auth\service\UserService.class
+com\trysecuritty\config\WebApplication.class
+com\trysecuritty\auth\service\SecurityService.class
+com\trysecuritty\auth\model\Role.class
+com\trysecuritty\auth\repository\RoleRepository.class
+com\trysecuritty\auth\service\UserServiceImpl.class
+com\trysecuritty\config\WebSecurityConfig.class
+com\trysecuritty\auth\web\UserController.class

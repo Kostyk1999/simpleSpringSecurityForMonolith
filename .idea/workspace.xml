@@ -1,0 +1,2201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b5963cb9-e14e-4cba-b16c-8ebd68e9f3a0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="try_security@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="try_security@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="try_security@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="try_security: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/trysecuritty/auth/service/SecurityService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/trysecuritty/auth/service/SecurityServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="246">
+              <caret line="16" column="43" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/trysecuritty/WebApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="36" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/trysecuritty/auth/service/UserServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/trysecuritty/config/WebSecurityConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="30" column="29" selection-start-line="30" selection-start-column="29" selection-end-line="30" selection-end-column="44" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="25" selection-start-line="2" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/registration.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="17" lean-forward="true" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/validation.properties">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/trysecuritty/auth/repository/RoleRepository.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>hellokoding</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>trysecuritty</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/trysecuritty/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/trysecuritty/config/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/trysecuritty/auth/model/User.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/trysecuritty/auth/model/Role.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/trysecuritty/auth/service/SecurityService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/trysecuritty/config/WebApplication.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/trysecuritty/auth/web/UserController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/trysecuritty/auth/service/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/trysecuritty/auth/repository/RoleRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/trysecuritty/auth/repository/UserRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/trysecuritty/config/Config.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/trysecuritty/auth/service/UserDetailsServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/com/trysecuritty/auth/validator/UserValidator.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/trysecuritty/auth/service/SecurityServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/trysecuritty/config/WebSecurityConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/trysecuritty/WebApplication.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1912" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="trySecurity" type="b2602c69:ProjectViewProjectNode" />
+              <item name="try_security" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="trySecurity" type="b2602c69:ProjectViewProjectNode" />
+              <item name="try_security" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="trySecurity" type="b2602c69:ProjectViewProjectNode" />
+              <item name="try_security" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="trySecurity" type="b2602c69:ProjectViewProjectNode" />
+              <item name="try_security" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="trySecurity" type="b2602c69:ProjectViewProjectNode" />
+              <item name="try_security" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="trysecuritty" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="trySecurity" type="b2602c69:ProjectViewProjectNode" />
+              <item name="try_security" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="trysecuritty" type="462c0819:PsiDirectoryNode" />
+              <item name="auth" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="trySecurity" type="b2602c69:ProjectViewProjectNode" />
+              <item name="try_security" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="trysecuritty" type="462c0819:PsiDirectoryNode" />
+              <item name="auth" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="trySecurity" type="b2602c69:ProjectViewProjectNode" />
+              <item name="try_security" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="trysecuritty" type="462c0819:PsiDirectoryNode" />
+              <item name="auth" type="462c0819:PsiDirectoryNode" />
+              <item name="repository" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="trySecurity" type="b2602c69:ProjectViewProjectNode" />
+              <item name="try_security" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="trysecuritty" type="462c0819:PsiDirectoryNode" />
+              <item name="auth" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="trySecurity" type="b2602c69:ProjectViewProjectNode" />
+              <item name="try_security" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="trysecuritty" type="462c0819:PsiDirectoryNode" />
+              <item name="auth" type="462c0819:PsiDirectoryNode" />
+              <item name="validator" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="trySecurity" type="b2602c69:ProjectViewProjectNode" />
+              <item name="try_security" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="trysecuritty" type="462c0819:PsiDirectoryNode" />
+              <item name="auth" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="trySecurity" type="b2602c69:ProjectViewProjectNode" />
+              <item name="try_security" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="trysecuritty" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="trySecurity" type="b2602c69:ProjectViewProjectNode" />
+              <item name="try_security" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="trySecurity" type="b2602c69:ProjectViewProjectNode" />
+              <item name="try_security" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="trySecurity" type="b2602c69:ProjectViewProjectNode" />
+              <item name="try_security" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="trySecurity" type="b2602c69:ProjectViewProjectNode" />
+              <item name="try_security" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="sqlserver&#10;oracle&#10;mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548936639196" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../try_security_2/registration-login-spring-hsql" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\KostiantynPryzyhlei\Personal\edu_proj\try_security\src\main\java\com\trysecuritty\auth\service" />
+      <recent name="D:\KostiantynPryzyhlei\Personal\edu_proj\try_security\src\main\webapp" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Spring boot">
+    <configuration name="jBOSS" type="JBossConfiguration" factoryName="Local" APPLICATION_SERVER_NAME="JBoss 7.1.1.Final" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment />
+      <server-settings>
+        <option name="SERVER" />
+        <option name="BINDING_SET_NAME" value="" />
+        <option name="DOMAIN" value="false" />
+        <option name="SERVER_GROUP" value="main-server-group" />
+        <option name="USERNAME" value="" />
+        <option name="PASSWORD" value="" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="JBoss" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="56994" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Spring boot" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="try_security" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.trysecuritty.WebApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="UPDATE_ACTION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="try_security" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.trysecuritty.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.trysecuritty.WebApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="UPDATE_ACTION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_trySecurity" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="56969" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tomcat" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8084/" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_trySecurity" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="56969" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JBoss Server.jBOSS" />
+      <item itemvalue="Spring Boot.Spring boot" />
+      <item itemvalue="Spring Boot.WebApplication" />
+      <item itemvalue="Tomcat Server.tomcat" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.WebApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b5963cb9-e14e-4cba-b16c-8ebd68e9f3a0" name="Default Changelist" comment="" />
+      <created>1548924356814</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1548924356814</updated>
+      <workItem from="1548924362353" duration="5484000" />
+      <workItem from="1548929984556" duration="5434000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="10918000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39333335" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Application Servers" order="7" />
+      <window_info anchor="bottom" id="Spring" order="8" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Inspection Results" order="11" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="13" />
+      <window_info anchor="bottom" id="Java Enterprise" order="14" />
+      <window_info anchor="bottom" id="Database Changes" order="15" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="16" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" visible="true" weight="0.27452025" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/welcome.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/trysecuritty/auth/service/UserDetailsImpl.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/4.0.4.RELEASE/spring-security-config-4.0.4.RELEASE.jar!/org/springframework/security/config/annotation/web/configuration/WebSecurityConfiguration.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/676ff992-2500-4342-ad5b-edbc4150f391/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/trysecuritty/auth/repository/UserRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/js/bootstrap.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="11" column="17" lean-forward="true" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.2.6.RELEASE/spring-context-4.2.6.RELEASE.jar!/org/springframework/context/support/AbstractMessageSource.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="108" selection-start-line="108" selection-end-line="108" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.2.6.RELEASE/spring-web-4.2.6.RELEASE.jar!/org/springframework/web/method/support/InvocableHandlerMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="132" selection-start-line="132" selection-end-line="132" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/trysecuritty/auth/validator/UserValidator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="40" column="5" lean-forward="true" selection-start-line="12" selection-start-column="4" selection-end-line="40" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/trysecuritty/config/Config.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/trysecuritty/auth/web/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="31" column="5" lean-forward="true" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/4.0.4.RELEASE/spring-security-config-4.0.4.RELEASE.jar!/org/springframework/security/config/method/GlobalMethodSecurityBeanDefinitionParser.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="341" column="23" selection-start-line="341" selection-start-column="23" selection-end-line="341" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/4.0.4.RELEASE/spring-security-core-4.0.4.RELEASE.jar!/org/springframework/security/authentication/ProviderManager.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="55" column="26" selection-start-line="55" selection-start-column="26" selection-end-line="55" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/4.0.4.RELEASE/spring-security-core-4.0.4.RELEASE.jar!/org/springframework/security/authentication/AuthenticationManager.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="10" column="32" lean-forward="true" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.2.6.RELEASE/spring-beans-4.2.6.RELEASE.jar!/org/springframework/beans/factory/annotation/Autowired.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/trysecuritty/auth/model/Role.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#277#278#0" expanded="true" />
+            <element signature="e#302#303#0" expanded="true" />
+            <element signature="e#336#337#0" expanded="true" />
+            <element signature="e#364#365#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.trysecuritty.auth.model.Role">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.trysecuritty.auth.model.Role</OriginalElement>
+          <nodes>
+            <node x="3.5" y="80.0">com.trysecuritty.auth.model.Role</node>
+            <node x="0.0" y="0.0">javax.persistence.Entity</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.trysecuritty.auth.model.Role" target="javax.persistence.Entity">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-164.5" y="-128.0" />
+          <SelectedNodes>
+            <node>com.trysecuritty.auth.model.Role</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.trysecuritty.auth">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.trysecuritty.auth</OriginalElement>
+          <nodes>
+            <node x="0.0" y="0.0">com.trysecuritty.auth.repository</node>
+            <node x="158.0" y="225.0">com.trysecuritty.auth.web</node>
+            <node x="0.0" y="150.0">com.trysecuritty.auth.service</node>
+            <node x="0.0" y="225.0">com.trysecuritty.auth.model</node>
+            <node x="0.0" y="75.0">com.trysecuritty.auth.validator</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="-74.0" y="-55.5" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/trysecuritty/auth/model/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#346#347#0" expanded="true" />
+            <element signature="e#371#372#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://SPRING/mappedClass=com.trysecuritty.auth.service.SecurityServiceImpl">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>SPRING</ID>
+          <OriginalElement>mappedClass=com.trysecuritty.auth.service.SecurityServiceImpl</OriginalElement>
+          <nodes>
+            <node x="104.0" y="2990.5744138634054">module=try_security;bean_class=com.trysecuritty.WebApplication;bean_name=webApplication</node>
+            <node x="547.5" y="3353.054281345565">module=try_security;bean_class=com.trysecuritty.auth.validator.UserValidator;bean_name=userValidator</node>
+            <node x="540.5" y="3233.054281345565">module=try_security;bean_class=com.trysecuritty.auth.service.UserServiceImpl;bean_name=userServiceImpl</node>
+            <node x="544.5" y="3293.054281345565">module=try_security;bean_class=com.trysecuritty.auth.web.UserController;bean_name=userController</node>
+            <node x="531.0" y="3113.054281345565">module=try_security;bean_class=com.trysecuritty.auth.service.SecurityServiceImpl;bean_name=securityServiceImpl</node>
+            <node x="544.0" y="3173.054281345565">module=try_security;bean_class=com.trysecuritty.auth.repository.RoleRepository;bean_name=roleRepository</node>
+            <node x="523.0" y="2993.054281345565">module=try_security;bean_class=com.trysecuritty.auth.service.UserDetailsServiceImpl;bean_name=userDetailsServiceImpl</node>
+            <node x="543.0" y="3053.054281345565">module=try_security;bean_class=com.trysecuritty.auth.repository.UserRepository;bean_name=userRepository</node>
+            <node x="891.0" y="3154.3600917431195">module=try_security;bean_class=org.springframework.security.authentication.AuthenticationManager;bean_name=authenticationManager</node>
+            <node x="888.5" y="2662.5744138634054">module=try_security;bean_class=org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;bean_name=bCryptPasswordEncoder</node>
+            <node x="532.0" y="2070.3876146788984">module=try_security;bean_class=com.trysecuritty.config.WebSecurityConfig;bean_name=webSecurityConfig</node>
+            <node x="884.0" y="1983.0555555555554">module=try_security;bean_class=org.springframework.security.config.annotation.web.configuration.WebSecurityConfiguration;bean_name=webSecurityConfiguration</node>
+            <node x="1233.0" y="1908.9077471967387">module=try_security;bean_class=org.springframework.security.context.DelegatingApplicationListener;bean_name=delegatingApplicationListener</node>
+            <node x="1231.5" y="1968.9077471967387">module=try_security;bean_class=org.springframework.security.access.expression.SecurityExpressionHandler;bean_name=webSecurityExpressionHandler</node>
+            <node x="1246.0" y="2028.9077471967387">module=try_security;bean_class=javax.servlet.Filter;bean_name=springSecurityFilterChain</node>
+            <node x="1265.0" y="1848.9077471967387">module=try_security;bean_class=org.springframework.security.web.access.WebInvocationPrivilegeEvaluator;bean_name=privilegeEvaluator</node>
+            <node x="1185.0" y="2088.9077471967385">module=try_security;bean_class=org.springframework.security.config.annotation.web.configuration.AutowiredWebSecurityConfigurersIgnoreParents;bean_name=autowiredWebSecurityConfigurersIgnoreParents</node>
+            <node x="528.5" y="1948.0555555555554">module=try_security;bean_class=org.springframework.security.config.annotation.ObjectPostProcessor;bean_name=objectPostProcessor</node>
+            <node x="862.5" y="1923.0555555555554">module=try_security;bean_class=org.springframework.security.config.annotation.configuration.ObjectPostProcessorConfiguration;bean_name=objectPostProcessorConfiguration</node>
+            <node x="874.0" y="2181.3876146788984">module=try_security;bean_class=org.springframework.security.config.annotation.web.configuration.SpringWebMvcImportSelector;bean_name=springWebMvcImportSelector</node>
+            <node x="520.0" y="1260.0">module=try_security;bean_class=org.springframework.web.context.WebApplicationContext;bean_name=webApplicationContext</node>
+            <node x="872.5" y="1863.0555555555554">module=try_security;bean_class=org.springframework.security.config.annotation.authentication.builders.AuthenticationManagerBuilder;bean_name=authenticationManagerBuilder</node>
+            <node x="494.0" y="1754.1855249745165">module=try_security;bean_class=org.springframework.web.accept.ContentNegotiationManager;bean_name=mvcContentNegotiationManager</node>
+            <node x="506.5" y="1833.3600917431193">module=try_security;bean_class=org.springframework.security.config.annotation.authentication.configuration.AuthenticationConfiguration;bean_name=authenticationConfiguration</node>
+            <node x="1583.5" y="0.0">module=try_security;bean_class=org.springframework.boot.autoconfigure.transaction.jta.JtaAutoConfiguration;bean_name=jtaAutoConfiguration</node>
+            <node x="1962.5" y="5.0">module=try_security;bean_class=org.springframework.boot.autoconfigure.transaction.jta.JndiJtaConfiguration;bean_name=jndiJtaConfiguration</node>
+            <node x="1963.5" y="125.0">module=try_security;bean_class=org.springframework.transaction.jta.JtaTransactionManager;bean_name=transactionManager</node>
+            <node x="313.0" y="3608.054281345565">module=try_security;bean_class=org.springframework.boot.context.properties.EnableConfigurationPropertiesImportSelector;bean_name=enableConfigurationPropertiesImportSelector</node>
+            <node x="1514.0" y="3608.054281345565">module=try_security;bean_class=org.springframework.boot.autoconfigure.transaction.jta.JtaProperties;bean_name=spring.jta.CONFIGURATION_PROPERTIES</node>
+            <node x="620.0" y="3608.054281345565">module=try_security;bean_class=org.springframework.boot.autoconfigure.cache.CacheAutoConfiguration.CacheManagerJpaDependencyConfiguration;bean_name=cacheManagerJpaDependencyConfiguration</node>
+            <node x="2214.0" y="90.0">module=try_security;bean_class=org.springframework.boot.autoconfigure.cache.CacheAutoConfiguration;bean_name=cacheAutoConfiguration</node>
+            <node x="2501.5" y="0.0">module=try_security;bean_class=org.springframework.boot.autoconfigure.cache.CacheManagerCustomizers;bean_name=cacheManagerCustomizers</node>
+            <node x="2481.5" y="60.0">module=try_security;bean_class=org.springframework.boot.autoconfigure.cache.CacheAutoConfiguration.CacheConfigurationImportSelector;bean_name=cacheConfigurationImportSelector</node>
+            <node x="2447.0" y="120.0">module=try_security;bean_class=org.springframework.boot.autoconfigure.cache.CacheAutoConfiguration.CacheManagerValidatorPostProcessor;bean_name=cacheAutoConfigurationValidatorPostProcessor</node>
+            <node x="2484.0" y="180.0">module=try_security;bean_class=org.springframework.boot.autoconfigure.cache.CacheAutoConfiguration.CacheManagerValidator;bean_name=cacheAutoConfigurationValidator</node>
+            <node x="2801.0" y="180.0">module=try_security;bean_class=org.springframework.boot.autoconfigure.cache.CacheProperties;bean_name=spring.cache.CONFIGURATION_PROPERTIES</node>
+            <node x="63.5" y="1604.1855249745165">module=try_security;bean_class=org.springframework.boot.autoconfigure.web.DispatcherServletAutoConfiguration.DispatcherServletConfiguration;bean_name=dispatcherServletConfiguration</node>
+            <node x="537.0" y="1634.1855249745165">module=try_security;bean_class=org.springframework.web.servlet.DispatcherServlet;bean_name=dispatcherServlet</node>
+            <node x="505.5" y="1694.1855249745165">module=try_security;bean_class=org.springframework.boot.context.embedded.ServletRegistrationBean;bean_name=dispatcherServletRegistration</node>
+            <node x="535.5" y="1574.1855249745165">module=try_security;bean_class=org.springframework.web.multipart.MultipartResolver;bean_name=multipartResolver</node>
+            <node x="469.0" y="1334.1855249745165">module=try_security;bean_class=org.springframework.boot.autoconfigure.web.WebMvcProperties;bean_name=spring.mvc.CONFIGURATION_PROPERTIES</node>
+            <node x="518.0" y="1514.1855249745165">module=try_security;bean_class=javax.servlet.MultipartConfigElement;bean_name=multipartConfigElement</node>
+            <node x="540.0" y="2393.054281345565">module=try_security;bean_class=org.springframework.boot.autoconfigure.web.ServerProperties;bean_name=serverProperties</node>
+            <node x="62.0" y="2123.0744138634054">module=try_security;bean_class=org.springframework.boot.autoconfigure.security.SecurityFilterAutoConfiguration;bean_name=securityFilterAutoConfiguration</node>
+            <node x="501.5" y="2333.054281345565">module=try_security;bean_class=org.springframework.boot.context.embedded.DelegatingFilterProxyRegistrationBean;bean_name=securityFilterChainRegistration</node>
+            <node x="535.0" y="2273.054281345565">module=try_security;bean_class=org.springframework.boot.autoconfigure.security.SecurityProperties;bean_name=securityProperties</node>
+            <node x="2832.0" y="3608.054281345565">module=try_security;bean_class=org.springframework.boot.autoconfigure.websocket.WebSocketAutoConfiguration;bean_name=webSocketAutoConfiguration</node>
+            <node x="1135.0" y="3543.054281345565">module=try_security;bean_class=org.springframework.boot.autoconfigure.websocket.WebSocketAutoConfiguration.TomcatWebSocketConfiguration;bean_name=tomcatWebSocketConfiguration</node>
+            <node x="1408.0" y="3543.054281345565">module=try_security;bean_class=org.springframework.boot.autoconfigure.websocket.TomcatWebSocketContainerCustomizer;bean_name=websocketContainerCustomizer</node>
+            <node x="3276.0" y="3608.054281345565">module=try_security;bean_class=org.springframework.boot.autoconfigure.jackson.JacksonAutoConfiguration;bean_name=jacksonAutoConfiguration</node>
+            <node x="2634.0" y="3543.054281345565">module=try_security;bean_class=org.springframework.boot.autoconfigure.jackson.JacksonAutoConfiguration.JacksonObjectMapperConfiguration;bean_name=jacksonObjectMapperConfiguration</node>
+            <node x="2926.0" y="3543.054281345565">module=try_security;bean_class=com.fasterxml.jackson.databind.ObjectMapper;bean_name=jacksonObjectMapper</node>
+            <node x="32.0" y="420.0">module=try_security;bean_class=org.springframework.boot.autoconfigure.jackson.JacksonAutoConfiguration.JacksonObjectMapperBuilderConfiguration;bean_name=jacksonObjectMapperBuilderConfiguration</node>
+            <node x="505.5" y="420.0">module=try_security;bean_class=org.springframework.http.converter.json.Jackson2ObjectMapperBuilder;bean_name=jacksonObjectMapperBuilder</node>
+            <node x="460.5" y="360.0">module=try_security;bean_class=org.springframework.boot.autoconfigure.jackson.JacksonProperties;bean_name=spring.jackson.CONFIGURATION_PROPERTIES</node>
+            <node x="1509.0" y="3418.054281345565">module=try_security;bean_class=org.springframework.boot.autoconfigure.web.EmbeddedServletContainerAutoConfiguration;bean_name=embeddedServletContainerAutoConfiguration</node>
+            <node x="1855.0" y="3418.054281345565">module=try_security;bean_class=org.springframework.boot.autoconfigure.web.EmbeddedServletContainerAutoConfiguration.EmbeddedServletContainerCustomizerBeanPostProcessorRegistrar;bean_name=embeddedServletContainerCustomizerBeanPostProcessorRegistrar</node>
+            <node x="2146.0" y="3543.054281345565">module=try_security;bean_class=org.springframework.boot.autoconfigure.web.EmbeddedServletContainerAutoConfiguration.EmbeddedTomcat;bean_name=embeddedTomcat</node>
+            <node x="2346.0" y="3543.054281345565">module=try_security;bean_class=org.springframework.boot.context.embedded.tomcat.TomcatEmbeddedServletContainerFactory;bean_name=tomcatEmbeddedServletContainerFactory</node>
+            <node x="59.5" y="5.0">module=try_security;bean_class=org.springframework.boot.autoconfigure.web.HttpEncodingAutoConfiguration;bean_name=httpEncodingAutoConfiguration</node>
+            <node x="519.5" y="0.0">module=try_security;bean_class=org.springframework.web.filter.CharacterEncodingFilter;bean_name=characterEncodingFilter</node>
+            <node x="443.0" y="60.0">module=try_security;bean_class=org.springframework.boot.autoconfigure.web.HttpEncodingProperties;bean_name=spring.http.encoding.CONFIGURATION_PROPERTIES</node>
+            <node x="32.5" y="70.0">module=try_security;bean_class=org.springframework.boot.autoconfigure.web.HttpMessageConvertersAutoConfiguration.StringHttpMessageConverterConfiguration;bean_name=stringHttpMessageConverterConfiguration</node>
+            <node x="506.0" y="240.0">module=try_security;bean_class=org.springframework.http.converter.StringHttpMessageConverter;bean_name=stringHttpMessageConverter</node>
+            <node x="71.0" y="1454.1855249745165">module=try_security;bean_class=org.springframework.boot.autoconfigure.web.MultipartAutoConfiguration;bean_name=multipartAutoConfiguration</node>
+            <node x="535.5" y="1454.1855249745165">module=try_security;bean_class=org.springframework.web.multipart.support.StandardServletMultipartResolver;bean_name=multipartResolver</node>
+            <node x="474.0" y="1394.1855249745165">module=try_security;bean_class=org.springframework.boot.autoconfigure.web.MultipartProperties;bean_name=multipart.CONFIGURATION_PROPERTIES</node>
+            <node x="584.0" y="3448.054281345565">module=try_security;bean_class=org.springframework.boot.autoconfigure.web.ErrorMvcAutoConfiguration.WhitelabelErrorViewConfiguration;bean_name=whitelabelErrorViewConfiguration</node>
+            <node x="915.0" y="3418.054281345565">module=try_security;bean_class=org.springframework.web.servlet.View;bean_name=error</node>
+            <node x="518.5" y="960.0">module=try_security;bean_class=org.springframework.web.servlet.view.BeanNameViewResolver;bean_name=beanNameViewResolver</node>
+            <node x="504.0" y="1200.0">module=try_security;bean_class=org.springframework.boot.autoconfigure.web.WebMvcAutoConfiguration.EnableWebMvcConfiguration;bean_name=enableWebMvcConfiguration</node>
+            <node x="867.5" y="1064.1855249745165">module=try_security;bean_class=org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter;bean_name=requestMappingHandlerAdapter</node>
+            <node x="864.5" y="1488.9077471967387">module=try_security;bean_class=org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping;bean_name=requestMappingHandlerMapping</node>
+            <node x="869.5" y="944.1855249745165">module=try_security;bean_class=org.springframework.web.servlet.HandlerMapping;bean_name=viewControllerHandlerMapping</node>
+            <node x="879.0" y="764.1855249745165">module=try_security;bean_class=org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping;bean_name=beanNameHandlerMapping</node>
+            <node x="885.5" y="1308.9077471967387">module=try_security;bean_class=org.springframework.web.servlet.HandlerMapping;bean_name=resourceHandlerMapping</node>
+            <node x="888.0" y="824.1855249745165">module=try_security;bean_class=org.springframework.web.servlet.resource.ResourceUrlProvider;bean_name=mvcResourceUrlProvider</node>
+            <node x="872.0" y="1368.9077471967387">module=try_security;bean_class=org.springframework.web.servlet.HandlerMapping;bean_name=defaultServletHandlerMapping</node>
+            <node x="893.0" y="1608.9077471967387">module=try_security;bean_class=org.springframework.format.support.FormattingConversionService;bean_name=mvcConversionService</node>
+            <node x="918.0" y="1004.1855249745165">module=try_security;bean_class=org.springframework.validation.Validator;bean_name=mvcValidator</node>
+            <node x="907.5" y="884.1855249745165">module=try_security;bean_class=org.springframework.util.PathMatcher;bean_name=mvcPathMatcher</node>
+            <node x="904.5" y="1184.1855249745165">module=try_security;bean_class=org.springframework.web.util.UrlPathHelper;bean_name=mvcUrlPathHelper</node>
+            <node x="868.5" y="1728.9077471967387">module=try_security;bean_class=org.springframework.web.method.support.CompositeUriComponentsContributor;bean_name=mvcUriComponentsContributor</node>
+            <node x="879.0" y="704.1855249745165">module=try_security;bean_class=org.springframework.web.servlet.mvc.HttpRequestHandlerAdapter;bean_name=httpRequestHandlerAdapter</node>
+            <node x="867.0" y="1428.9077471967387">module=try_security;bean_class=org.springframework.web.servlet.mvc.SimpleControllerHandlerAdapter;bean_name=simpleControllerHandlerAdapter</node>
+            <node x="885.5" y="1244.1855249745165">module=try_security;bean_class=org.springframework.web.servlet.HandlerExceptionResolver;bean_name=handlerExceptionResolver</node>
+            <node x="907.0" y="1668.9077471967387">module=try_security;bean_class=org.springframework.web.servlet.ViewResolver;bean_name=mvcViewResolver</node>
+            <node x="2327.0" y="3608.054281345565">module=try_security;bean_class=org.springframework.boot.autoconfigure.web.DispatcherServletAutoConfiguration;bean_name=dispatcherServletAutoConfiguration</node>
+            <node x="53.5" y="2270.5744138634054">module=try_security;bean_class=org.springframework.boot.autoconfigure.web.ServerPropertiesAutoConfiguration;bean_name=serverPropertiesAutoConfiguration</node>
+            <node x="492.5" y="2453.054281345565">module=try_security;bean_class=org.springframework.boot.autoconfigure.web.ServerPropertiesAutoConfiguration.DuplicateServerPropertiesDetector;bean_name=duplicateServerPropertiesDetector</node>
+            <node x="1058.0" y="3448.054281345565">module=try_security;bean_class=org.springframework.boot.autoconfigure.web.WebMvcAutoConfiguration;bean_name=webMvcAutoConfiguration</node>
+            <node x="1309.0" y="3418.054281345565">module=try_security;bean_class=org.springframework.boot.context.web.OrderedHiddenHttpMethodFilter;bean_name=hiddenHttpMethodFilter</node>
+            <node x="1305.0" y="3478.054281345565">module=try_security;bean_class=org.springframework.boot.context.web.OrderedHttpPutFormContentFilter;bean_name=httpPutFormContentFilter</node>
+            <node x="52.0" y="1004.1855249745165">module=try_security;bean_class=org.springframework.boot.autoconfigure.web.WebMvcAutoConfiguration.WebMvcAutoConfigurationAdapter;bean_name=webMvcAutoConfigurationAdapter</node>
+            <node x="529.0" y="1140.0">module=try_security;bean_class=org.springframework.web.servlet.view.InternalResourceViewResolver;bean_name=defaultViewResolver</node>
+            <node x="529.0" y="1080.0">module=try_security;bean_class=org.springframework.web.filter.RequestContextFilter;bean_name=requestContextFilter</node>
+            <node x="548.0" y="840.0">module=try_security;bean_class=org.springframework.web.servlet.view.ContentNegotiatingViewResolver;bean_name=viewResolver</node>
+            <node x="544.5" y="1020.0">module=try_security;bean_class=org.springframework.web.servlet.LocaleResolver;bean_name=localeResolver</node>
+            <node x="544.5" y="900.0">module=try_security;bean_class=org.springframework.format.Formatter;bean_name=dateFormatter</node>
+            <node x="473.5" y="300.0">module=try_security;bean_class=org.springframework.http.converter.json.MappingJackson2HttpMessageConverter;bean_name=mappingJackson2HttpMessageConverter</node>
+            <node x="455.5" y="780.0">module=try_security;bean_class=org.springframework.boot.autoconfigure.web.ResourceProperties;bean_name=spring.resources.CONFIGURATION_PROPERTIES</node>
+            <node x="89.0" y="734.1855249745165">module=try_security;bean_class=org.springframework.boot.autoconfigure.web.WebMvcAutoConfiguration.WebMvcAutoConfigurationAdapter.FaviconConfiguration;bean_name=faviconConfiguration</node>
+            <node x="517.5" y="720.0">module=try_security;bean_class=org.springframework.web.servlet.handler.SimpleUrlHandlerMapping;bean_name=faviconHandlerMapping</node>
+            <node x="520.5" y="660.0">module=try_security;bean_class=org.springframework.web.servlet.resource.ResourceHttpRequestHandler;bean_name=faviconRequestHandler</node>
+            <node x="2272.0" y="3418.054281345565">module=try_security;bean_class=org.springframework.boot.autoconfigure.dao.PersistenceExceptionTranslationAutoConfiguration;bean_name=persistenceExceptionTranslationAutoConfiguration</node>
+            <node x="2643.0" y="3418.054281345565">module=try_security;bean_class=org.springframework.dao.annotation.PersistenceExceptionTranslationPostProcessor;bean_name=persistenceExceptionTranslationPostProcessor</node>
+            <node x="1556.5" y="275.0">module=try_security;bean_class=org.springframework.boot.autoconfigure.orm.jpa.HibernateJpaAutoConfiguration;bean_name=hibernateJpaAutoConfiguration</node>
+            <node x="1963.5" y="185.0">module=try_security;bean_class=org.springframework.transaction.PlatformTransactionManager;bean_name=transactionManager</node>
+            <node x="1968.5" y="245.0">module=try_security;bean_class=org.springframework.orm.jpa.JpaVendorAdapter;bean_name=jpaVendorAdapter</node>
+            <node x="1940.0" y="365.0">module=try_security;bean_class=org.springframework.boot.orm.jpa.EntityManagerFactoryBuilder;bean_name=entityManagerFactoryBuilder</node>
+            <node x="1958.5" y="305.0">module=try_security;bean_class=org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean;bean_name=entityManagerFactory</node>
+            <node x="1987.0" y="488.5119047619047">module=try_security;bean_class=javax.sql.DataSource;bean_name=dataSource</node>
+            <node x="187.0" y="3673.054281345565">module=try_security;bean_class=org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration.JpaWebConfiguration;bean_name=jpaWebConfiguration</node>
+            <node x="1643.0" y="3543.054281345565">module=try_security;bean_class=org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration.JpaWebConfiguration.JpaWebMvcConfiguration;bean_name=jpaWebMvcConfiguration</node>
+            <node x="1882.0" y="3543.054281345565">module=try_security;bean_class=org.springframework.orm.jpa.support.OpenEntityManagerInViewInterceptor;bean_name=openEntityManagerInViewInterceptor</node>
+            <node x="1797.0" y="3608.054281345565">module=try_security;bean_class=org.springframework.boot.autoconfigure.jdbc.DataSourceTransactionManagerAutoConfiguration.TransactionManagementConfiguration;bean_name=transactionManagementConfiguration</node>
+            <node x="0.0" y="3608.054281345565">module=try_security;bean_class=org.springframework.transaction.annotation.TransactionManagementConfigurationSelector;bean_name=transactionManagementConfigurationSelector</node>
+            <node x="1550.0" y="728.5119047619048">module=try_security;bean_class=org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration.DataSourceInitializerConfiguration;bean_name=dataSourceInitializerConfiguration</node>
+            <node x="1963.5" y="728.5119047619048">module=try_security;bean_class=org.springframework.boot.autoconfigure.jdbc.DataSourceInitializer;bean_name=dataSourceInitializer</node>
+            <node x="1886.0" y="668.5119047619048">module=try_security;bean_class=org.springframework.boot.autoconfigure.jdbc.DataSourceProperties;bean_name=spring.datasource.CONFIGURATION_PROPERTIES</node>
+            <node x="823.0" y="1803.0555555555554">module=try_security;bean_class=org.springframework.security.config.annotation.authentication.configurers.GlobalAuthenticationConfigurerAdapter;bean_name=enableGlobalAuthenticationAutowiredConfigurer</node>
+            <node x="0.0" y="3673.054281345565">module=try_security;bean_class=org.springframework.boot.autoconfigure.aop.AopAutoConfiguration;bean_name=aopAutoConfiguration</node>
+            <node x="2068.0" y="3608.054281345565">module=try_security;bean_class=org.springframework.boot.autoconfigure.aop.AopAutoConfiguration.JdkDynamicAutoProxyConfiguration;bean_name=jdkDynamicAutoProxyConfiguration</node>
+            <node x="3483.0" y="3608.054281345565">module=try_security;bean_class=org.springframework.context.annotation.AspectJAutoProxyRegistrar;bean_name=aspectJAutoProxyRegistrar</node>
+            <node x="2584.0" y="3608.054281345565">module=try_security;bean_class=org.springframework.boot.autoconfigure.data.web.SpringDataWebAutoConfiguration;bean_name=springDataWebAutoConfiguration</node>
+            <node x="922.0" y="3608.054281345565">module=try_security;bean_class=org.springframework.data.web.config.EnableSpringDataWebSupport.SpringDataWebConfigurationImportSelector;bean_name=springDataWebConfigurationImportSelector</node>
+            <node x="68.0" y="584.1855249745165">module=try_security;bean_class=org.springframework.data.web.config.SpringDataWebConfiguration;bean_name=springDataWebConfiguration</node>
+            <node x="536.0" y="600.0">module=try_security;bean_class=org.springframework.data.web.PageableHandlerMethodArgumentResolver;bean_name=pageableResolver</node>
+            <node x="550.0" y="540.0">module=try_security;bean_class=org.springframework.data.web.SortHandlerMethodArgumentResolver;bean_name=sortResolver</node>
+            <node x="534.5" y="480.0">module=try_security;bean_class=org.springframework.core.convert.ConversionService;bean_name=conversionService</node>
+            <node x="534.0" y="3673.054281345565">module=try_security;bean_class=org.springframework.data.web.config.EnableSpringDataWebSupport.QuerydslActivator;bean_name=querydslActivator</node>
+            <node x="0.0" y="3448.054281345565">module=try_security;bean_class=org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration;bean_name=dataSourceAutoConfiguration</node>
+            <node x="367.5" y="3418.054281345565">module=try_security;bean_class=org.springframework.boot.autoconfigure.jdbc.DataSourceInitializerPostProcessor.Registrar;bean_name=registrar</node>
+            <node x="261.0" y="3478.054281345565">module=try_security;bean_class=org.springframework.boot.autoconfigure.jdbc.metadata.DataSourcePoolMetadataProvidersConfiguration;bean_name=dataSourcePoolMetadataProvidersConfiguration</node>
+            <node x="2953.0" y="3418.054281345565">module=try_security;bean_class=org.springframework.boot.autoconfigure.jdbc.metadata.DataSourcePoolMetadataProvidersConfiguration.TomcatDataSourcePoolMetadataProviderConfiguration;bean_name=tomcatDataSourcePoolMetadataProviderConfiguration</node>
+            <node x="3345.0" y="3418.054281345565">module=try_security;bean_class=org.springframework.boot.autoconfigure.jdbc.metadata.DataSourcePoolMetadataProvider;bean_name=tomcatPoolDataSourceMetadataProvider</node>
+            <node x="1566.5" y="545.0">module=try_security;bean_class=org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration.JdbcTemplateConfiguration;bean_name=jdbcTemplateConfiguration</node>
+            <node x="1980.0" y="548.5119047619047">module=try_security;bean_class=org.springframework.jdbc.core.JdbcTemplate;bean_name=jdbcTemplate</node>
+            <node x="1934.0" y="608.5119047619047">module=try_security;bean_class=org.springframework.jdbc.core.namedparam.NamedParameterJdbcTemplate;bean_name=namedParameterJdbcTemplate</node>
+            <node x="1506.0" y="461.1309523809524">module=try_security;bean_class=org.springframework.boot.autoconfigure.jdbc.DataSourceTransactionManagerAutoConfiguration;bean_name=dataSourceTransactionManagerAutoConfiguration</node>
+            <node x="1963.5" y="425.0">module=try_security;bean_class=org.springframework.jdbc.datasource.DataSourceTransactionManager;bean_name=transactionManager</node>
+            <node x="1560.5" y="152.5">module=try_security;bean_class=org.springframework.boot.autoconfigure.transaction.TransactionAutoConfiguration;bean_name=transactionAutoConfiguration</node>
+            <node x="1962.0" y="65.0">module=try_security;bean_class=org.springframework.transaction.support.TransactionTemplate;bean_name=transactionTemplate</node>
+            <node x="75.0" y="2420.5744138634054">module=try_security;bean_class=org.springframework.boot.autoconfigure.security.SecurityAutoConfiguration;bean_name=securityAutoConfiguration</node>
+            <node x="483.0" y="2513.054281345565">module=try_security;bean_class=org.springframework.boot.autoconfigure.security.SpringBootWebSecurityConfiguration;bean_name=springBootWebSecurityConfiguration</node>
+            <node x="835.5" y="2337.554281345565">module=try_security;bean_class=org.springframework.boot.autoconfigure.security.SpringBootWebSecurityConfiguration.IgnoredPathsWebSecurityConfigurerAdapter;bean_name=ignoredPathsWebSecurityConfigurerAdapter</node>
+            <node x="483.0" y="2633.054281345565">module=try_security;bean_class=org.springframework.boot.autoconfigure.security.AuthenticationManagerConfiguration;bean_name=authenticationManagerConfiguration</node>
+            <node x="835.0" y="2241.3876146788984">module=try_security;bean_class=org.springframework.boot.autoconfigure.security.AuthenticationManagerConfiguration.SpringBootAuthenticationConfigurerAdapter;bean_name=springBootAuthenticationConfigurerAdapter</node>
+            <node x="476.0" y="2693.054281345565">module=try_security;bean_class=org.springframework.boot.autoconfigure.security.BootGlobalAuthenticationConfiguration;bean_name=bootGlobalAuthenticationConfiguration</node>
+            <node x="826.0" y="2517.554281345565">module=try_security;bean_class=org.springframework.boot.autoconfigure.security.BootGlobalAuthenticationConfiguration.BootGlobalAuthenticationConfigurationAdapter;bean_name=bootGlobalAuthenticationConfigurationAdapter</node>
+            <node x="504.5" y="2573.054281345565">module=try_security;bean_class=org.springframework.security.authentication.DefaultAuthenticationEventPublisher;bean_name=authenticationEventPublisher</node>
+            <node x="529.5" y="2753.054281345565">module=try_security;bean_class=org.springframework.boot.autoconfigure.web.BasicErrorController;bean_name=basicErrorController</node>
+            <node x="33.5" y="1851.4077471967387">module=try_security;bean_class=org.springframework.boot.autoconfigure.security.SpringBootWebSecurityConfiguration.ApplicationWebSecurityConfigurerAdapter;bean_name=applicationWebSecurityConfigurerAdapter</node>
+            <node x="581.0" y="3543.054281345565">module=try_security;bean_class=org.springframework.boot.autoconfigure.data.jpa.JpaRepositoriesAutoConfiguration;bean_name=jpaRepositoriesAutoConfiguration</node>
+            <node x="863.0" y="3543.054281345565">module=try_security;bean_class=org.springframework.boot.autoconfigure.data.jpa.JpaRepositoriesAutoConfigureRegistrar;bean_name=jpaRepositoriesAutoConfigureRegistrar</node>
+            <node x="1552.5" y="663.5119047619048">module=try_security;bean_class=org.springframework.boot.autoconfigure.jdbc.XADataSourceAutoConfiguration;bean_name=XADataSourceAutoConfiguration</node>
+            <node x="33.0" y="210.0">module=try_security;bean_class=org.springframework.boot.autoconfigure.web.HttpMessageConvertersAutoConfiguration;bean_name=httpMessageConvertersAutoConfiguration</node>
+            <node x="461.5" y="120.0">module=try_security;bean_class=org.springframework.boot.autoconfigure.web.JacksonHttpMessageConvertersConfiguration;bean_name=jacksonHttpMessageConvertersConfiguration</node>
+            <node x="530.5" y="180.0">module=try_security;bean_class=org.springframework.boot.autoconfigure.web.HttpMessageConverters;bean_name=messageConverters</node>
+            <node x="0.0" y="300.0">module=try_security;bean_class=org.springframework.boot.autoconfigure.web.JacksonHttpMessageConvertersConfiguration.MappingJackson2HttpMessageConverterConfiguration;bean_name=mappingJackson2HttpMessageConverterConfiguration</node>
+            <node x="3109.0" y="3543.054281345565">module=try_security;bean_class=org.springframework.boot.autoconfigure.MessageSourceAutoConfiguration;bean_name=messageSourceAutoConfiguration</node>
+            <node x="3393.0" y="3543.054281345565">module=try_security;bean_class=org.springframework.context.MessageSource;bean_name=messageSource</node>
+            <node x="3102.0" y="60.0">module=try_security;bean_class=org.springframework.boot.autoconfigure.jmx.JmxAutoConfiguration;bean_name=jmxAutoConfiguration</node>
+            <node x="3342.5" y="0.0">module=try_security;bean_class=org.springframework.jmx.export.annotation.AnnotationMBeanExporter;bean_name=mbeanExporter</node>
+            <node x="3323.0" y="60.0">module=try_security;bean_class=org.springframework.boot.autoconfigure.jmx.ParentAwareNamingStrategy;bean_name=objectNamingStrategy</node>
+            <node x="3348.0" y="120.0">module=try_security;bean_class=javax.management.MBeanServer;bean_name=mbeanServer</node>
+            <node x="0.0" y="3543.054281345565">module=try_security;bean_class=org.springframework.boot.autoconfigure.PropertyPlaceholderAutoConfiguration;bean_name=propertyPlaceholderAutoConfiguration</node>
+            <node x="309.0" y="3543.054281345565">module=try_security;bean_class=org.springframework.context.support.PropertySourcesPlaceholderConfigurer;bean_name=propertySourcesPlaceholderConfigurer</node>
+            <node x="1222.0" y="3608.054281345565">module=try_security;bean_class=org.springframework.boot.autoconfigure.context.ConfigurationPropertiesAutoConfiguration;bean_name=configurationPropertiesAutoConfiguration</node>
+            <node x="71.5" y="2660.5744138634054">module=try_security;bean_class=org.springframework.boot.autoconfigure.web.ErrorMvcAutoConfiguration;bean_name=errorMvcAutoConfiguration</node>
+            <node x="543.5" y="2873.054281345565">module=try_security;bean_class=org.springframework.boot.autoconfigure.web.DefaultErrorAttributes;bean_name=errorAttributes</node>
+            <node x="526.5" y="2813.054281345565">module=try_security;bean_class=org.springframework.boot.autoconfigure.web.ErrorMvcAutoConfiguration.ErrorPageCustomizer;bean_name=errorPageCustomizer</node>
+            <node x="453.5" y="2933.054281345565">module=try_security;bean_class=org.springframework.boot.autoconfigure.web.ErrorMvcAutoConfiguration.PreserveErrorControllerTargetClassPostProcessor;bean_name=preserveErrorControllerTargetClassPostProcessor</node>
+            <node x="1129.0" y="3673.054281345565">module=try_security;bean_class=org.springframework.core.env.Environment;bean_name=environment</node>
+            <node x="694.0" y="3673.054281345565">module=try_security;bean_class=org.springframework.core.env.PropertyResolver;bean_name=propertyResolver</node>
+            <node x="368.0" y="3673.054281345565">module=try_security;bean_class=javax.servlet.http.HttpServletRequest;bean_name=httpServletRequest</node>
+            <node x="1264.0" y="3673.054281345565">module=try_security;bean_class=javax.servlet.http.HttpSession;bean_name=httpSession</node>
+            <node x="992.0" y="3673.054281345565">module=try_security;bean_class=javax.servlet.ServletConfig;bean_name=servletConfig</node>
+            <node x="850.0" y="3673.054281345565">module=try_security;bean_class=javax.servlet.ServletContext;bean_name=servletContext</node>
+            <node x="3056.0" y="3608.054281345565">module=try_security;bean_class=org.springframework.boot.ApplicationArguments;bean_name=springApplicationArguments</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="module=try_security;bean_class=org.springframework.data.web.config.SpringDataWebConfiguration;bean_name=springDataWebConfiguration" target="module=try_security;bean_class=org.springframework.data.web.SortHandlerMethodArgumentResolver;bean_name=sortResolver">
+              <point x="88.5" y="-2.5" />
+              <point x="313.0" y="591.6855249745165" />
+              <point x="393.0" y="550.0" />
+              <point x="-43.0" y="-0.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.boot.autoconfigure.web.DispatcherServletAutoConfiguration.DispatcherServletConfiguration;bean_name=dispatcherServletConfiguration" target="module=try_security;bean_class=org.springframework.boot.autoconfigure.web.WebMvcProperties;bean_name=spring.mvc.CONFIGURATION_PROPERTIES">
+              <point x="93.0" y="-8.333333333333485" />
+              <point x="313.0" y="1605.852191641183" />
+              <point x="393.0" y="1350.8521916411833" />
+              <point x="-124.0" y="6.6666666666667425" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.boot.autoconfigure.web.ErrorMvcAutoConfiguration;bean_name=errorMvcAutoConfiguration" target="module=try_security;bean_class=org.springframework.boot.autoconfigure.web.DefaultErrorAttributes;bean_name=errorAttributes">
+              <point x="85.0" y="4.0" />
+              <point x="313.0" y="2674.5744138634054" />
+              <point x="393.0" y="2883.054281345565" />
+              <point x="-49.5" y="-0.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=com.trysecuritty.WebApplication;bean_name=webApplication" target="module=try_security;bean_class=com.trysecuritty.auth.validator.UserValidator;bean_name=userValidator">
+              <point x="52.5" y="8.75" />
+              <point x="313.0" y="3009.3244138634054" />
+              <point x="393.0" y="3368.054281345565" />
+              <point x="-45.5" y="5.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.boot.autoconfigure.data.jpa.JpaRepositoriesAutoConfiguration;bean_name=jpaRepositoriesAutoConfiguration" target="module=try_security;bean_class=org.springframework.boot.autoconfigure.data.jpa.JpaRepositoriesAutoConfigureRegistrar;bean_name=jpaRepositoriesAutoConfigureRegistrar">
+              <point x="101.0" y="-0.0" />
+              <point x="-113.5" y="-0.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.boot.autoconfigure.orm.jpa.HibernateJpaAutoConfiguration;bean_name=hibernateJpaAutoConfiguration" target="module=try_security;bean_class=org.springframework.boot.orm.jpa.EntityManagerFactoryBuilder;bean_name=entityManagerFactoryBuilder">
+              <point x="94.5" y="5.0" />
+              <point x="1796.0" y="290.0" />
+              <point x="1876.0" y="375.0" />
+              <point x="-87.5" y="-0.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration.DataSourceInitializerConfiguration;bean_name=dataSourceInitializerConfiguration" target="module=try_security;bean_class=org.springframework.boot.autoconfigure.jdbc.DataSourceInitializer;bean_name=dataSourceInitializer">
+              <point x="101.0" y="-0.0" />
+              <point x="-64.0" y="-0.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.boot.autoconfigure.web.WebMvcAutoConfiguration.EnableWebMvcConfiguration;bean_name=enableWebMvcConfiguration" target="module=try_security;bean_class=org.springframework.web.servlet.HandlerExceptionResolver;bean_name=handlerExceptionResolver">
+              <point x="89.0" y="0.5555555555555429" />
+              <point x="743.0" y="1210.5555555555557" />
+              <point x="823.0" y="1254.1855249745165" />
+              <point x="-78.5" y="-0.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.security.config.annotation.web.configuration.WebSecurityConfiguration;bean_name=webSecurityConfiguration" target="module=try_security;bean_class=javax.servlet.Filter;bean_name=springSecurityFilterChain">
+              <point x="80.0" y="4.0" />
+              <point x="1105.0" y="1997.0555555555554" />
+              <point x="1185.0" y="2038.9077471967387" />
+              <point x="-77.0" y="-0.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.security.config.annotation.web.configuration.WebSecurityConfiguration;bean_name=webSecurityConfiguration" target="module=try_security;bean_class=org.springframework.security.config.annotation.ObjectPostProcessor;bean_name=objectPostProcessor">
+              <point x="-80.0" y="-5.0" />
+              <point x="823.0" y="1988.0555555555554" />
+              <point x="743.0" y="1963.0555555555554" />
+              <point x="64.5" y="5.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.boot.autoconfigure.web.WebMvcAutoConfiguration.EnableWebMvcConfiguration;bean_name=enableWebMvcConfiguration" target="module=try_security;bean_class=org.springframework.web.method.support.CompositeUriComponentsContributor;bean_name=mvcUriComponentsContributor">
+              <point x="89.0" y="9.444444444444457" />
+              <point x="743.0" y="1219.4444444444443" />
+              <point x="823.0" y="1738.9077471967387" />
+              <point x="-95.5" y="-0.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=com.trysecuritty.WebApplication;bean_name=webApplication" target="module=try_security;bean_class=com.trysecuritty.auth.service.UserServiceImpl;bean_name=userServiceImpl">
+              <point x="52.5" y="3.75" />
+              <point x="313.0" y="3004.3244138634054" />
+              <point x="393.0" y="3243.054281345565" />
+              <point x="-52.5" y="-0.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=com.trysecuritty.WebApplication;bean_name=webApplication" target="module=try_security;bean_class=com.trysecuritty.WebApplication;bean_name=webApplication">
+              <point x="-52.5" y="-0.0" />
+              <point x="84.0" y="3000.5744138634054" />
+              <point x="84.0" y="3030.5744138634054" />
+              <point x="156.5" y="3030.5744138634054" />
+              <point x="0.0" y="10.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.boot.autoconfigure.jmx.JmxAutoConfiguration;bean_name=jmxAutoConfiguration" target="module=try_security;bean_class=org.springframework.boot.autoconfigure.jmx.ParentAwareNamingStrategy;bean_name=objectNamingStrategy">
+              <point x="70.5" y="-0.0" />
+              <point x="-70.5" y="-0.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.boot.autoconfigure.web.HttpMessageConvertersAutoConfiguration;bean_name=httpMessageConvertersAutoConfiguration" target="module=try_security;bean_class=org.springframework.boot.autoconfigure.web.JacksonHttpMessageConvertersConfiguration;bean_name=jacksonHttpMessageConvertersConfiguration">
+              <point x="123.5" y="-7.5" />
+              <point x="313.0" y="212.5" />
+              <point x="393.0" y="130.0" />
+              <point x="-131.5" y="-0.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration.JdbcTemplateConfiguration;bean_name=jdbcTemplateConfiguration" target="module=try_security;bean_class=org.springframework.jdbc.core.namedparam.NamedParameterJdbcTemplate;bean_name=namedParameterJdbcTemplate">
+              <point x="84.5" y="6.666666666666657" />
+              <point x="1796.0" y="561.6666666666666" />
+              <point x="1876.0" y="618.5119047619047" />
+              <point x="-93.5" y="-0.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.boot.autoconfigure.web.WebMvcAutoConfiguration.WebMvcAutoConfigurationAdapter;bean_name=webMvcAutoConfigurationAdapter" target="module=try_security;bean_class=org.springframework.boot.autoconfigure.web.ResourceProperties;bean_name=spring.resources.CONFIGURATION_PROPERTIES">
+              <point x="104.5" y="-5.833333333333314" />
+              <point x="313.0" y="1008.3521916411833" />
+              <point x="393.0" y="795.0" />
+              <point x="-137.5" y="5.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=com.trysecuritty.auth.service.UserServiceImpl;bean_name=userServiceImpl" target="module=try_security;bean_class=com.trysecuritty.auth.repository.RoleRepository;bean_name=roleRepository">
+              <point x="0.0" y="-10.0" />
+              <point x="0.0" y="10.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.boot.autoconfigure.web.JacksonHttpMessageConvertersConfiguration.MappingJackson2HttpMessageConverterConfiguration;bean_name=mappingJackson2HttpMessageConverterConfiguration" target="module=try_security;bean_class=org.springframework.http.converter.json.MappingJackson2HttpMessageConverter;bean_name=mappingJackson2HttpMessageConverter">
+              <point x="156.5" y="-0.0" />
+              <point x="-119.5" y="-0.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.boot.autoconfigure.web.HttpEncodingAutoConfiguration;bean_name=httpEncodingAutoConfiguration" target="module=try_security;bean_class=org.springframework.boot.autoconfigure.web.HttpEncodingProperties;bean_name=spring.http.encoding.CONFIGURATION_PROPERTIES">
+              <point x="97.0" y="5.0" />
+              <point x="313.0" y="20.0" />
+              <point x="393.0" y="65.0" />
+              <point x="-150.0" y="-5.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.boot.autoconfigure.PropertyPlaceholderAutoConfiguration;bean_name=propertyPlaceholderAutoConfiguration" target="module=try_security;bean_class=org.springframework.context.support.PropertySourcesPlaceholderConfigurer;bean_name=propertySourcesPlaceholderConfigurer">
+              <point x="114.5" y="-0.0" />
+              <point x="-113.5" y="-0.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.boot.autoconfigure.cache.CacheAutoConfiguration;bean_name=cacheAutoConfiguration" target="module=try_security;bean_class=org.springframework.boot.autoconfigure.cache.CacheAutoConfiguration.CacheConfigurationImportSelector;bean_name=cacheConfigurationImportSelector">
+              <point x="76.5" y="-2.5" />
+              <point x="2447.0" y="70.0" />
+              <point x="-102.5" y="-0.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.boot.autoconfigure.web.WebMvcAutoConfiguration.WebMvcAutoConfigurationAdapter;bean_name=webMvcAutoConfigurationAdapter" target="module=try_security;bean_class=org.springframework.web.servlet.view.BeanNameViewResolver;bean_name=beanNameViewResolver">
+              <point x="104.5" y="-0.8333333333333144" />
+              <point x="313.0" y="1013.3521916411833" />
+              <point x="393.0" y="970.0" />
+              <point x="-74.5" y="-0.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration.JdbcTemplateConfiguration;bean_name=jdbcTemplateConfiguration" target="module=try_security;bean_class=org.springframework.jdbc.core.JdbcTemplate;bean_name=jdbcTemplate">
+              <point x="84.5" y="-0.0" />
+              <point x="1796.0" y="555.0" />
+              <point x="1876.0" y="558.5119047619047" />
+              <point x="-47.5" y="-0.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.boot.autoconfigure.web.WebMvcAutoConfiguration.EnableWebMvcConfiguration;bean_name=enableWebMvcConfiguration" target="module=try_security;bean_class=org.springframework.web.servlet.HandlerMapping;bean_name=defaultServletHandlerMapping">
+              <point x="89.0" y="2.7777777777778283" />
+              <point x="743.0" y="1212.7777777777778" />
+              <point x="823.0" y="1378.9077471967387" />
+              <point x="-92.0" y="-0.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.boot.autoconfigure.web.WebMvcAutoConfiguration.EnableWebMvcConfiguration;bean_name=enableWebMvcConfiguration" target="module=try_security;bean_class=org.springframework.web.context.WebApplicationContext;bean_name=webApplicationContext">
+              <point x="0.0" y="10.0" />
+              <point x="0.0" y="-10.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.boot.autoconfigure.security.BootGlobalAuthenticationConfiguration;bean_name=bootGlobalAuthenticationConfiguration" target="module=try_security;bean_class=org.springframework.boot.autoconfigure.security.BootGlobalAuthenticationConfiguration.BootGlobalAuthenticationConfigurationAdapter;bean_name=bootGlobalAuthenticationConfigurationAdapter">
+              <point x="117.0" y="-0.0" />
+              <point x="743.0" y="2703.054281345565" />
+              <point x="-138.0" y="-0.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.boot.autoconfigure.web.EmbeddedServletContainerAutoConfiguration.EmbeddedTomcat;bean_name=embeddedTomcat" target="module=try_security;bean_class=org.springframework.boot.context.embedded.tomcat.TomcatEmbeddedServletContainerFactory;bean_name=tomcatEmbeddedServletContainerFactory">
+              <point x="60.0" y="-0.0" />
+              <point x="-121.5" y="-0.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.boot.autoconfigure.transaction.jta.JndiJtaConfiguration;bean_name=jndiJtaConfiguration" target="module=try_security;bean_class=org.springframework.transaction.jta.JtaTransactionManager;bean_name=transactionManager">
+              <point x="-65.0" y="5.0" />
+              <point x="1876.0" y="20.0" />
+              <point x="1876.0" y="128.33333333333337" />
+              <point x="-64.0" y="-6.666666666666629" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.boot.autoconfigure.security.SecurityAutoConfiguration;bean_name=securityAutoConfiguration" target="module=try_security;bean_class=org.springframework.boot.autoconfigure.security.BootGlobalAuthenticationConfiguration;bean_name=bootGlobalAuthenticationConfiguration">
+              <point x="81.5" y="8.0" />
+              <point x="313.0" y="2438.5744138634054" />
+              <point x="393.0" y="2703.054281345565" />
+              <point x="-117.0" y="-0.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.data.web.config.SpringDataWebConfiguration;bean_name=springDataWebConfiguration" target="module=try_security;bean_class=org.springframework.core.convert.ConversionService;bean_name=conversionService">
+              <point x="88.5" y="-7.5" />
+              <point x="313.0" y="586.6855249745165" />
+              <point x="393.0" y="490.0" />
+              <point x="-58.5" y="-0.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.boot.autoconfigure.security.SecurityAutoConfiguration;bean_name=securityAutoConfiguration" target="module=try_security;bean_class=org.springframework.boot.autoconfigure.security.SpringBootWebSecurityConfiguration;bean_name=springBootWebSecurityConfiguration">
+              <point x="81.5" y="-4.0" />
+              <point x="313.0" y="2426.5744138634054" />
+              <point x="393.0" y="2523.054281345565" />
+              <point x="-110.0" y="-0.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.boot.autoconfigure.security.SpringBootWebSecurityConfiguration.IgnoredPathsWebSecurityConfigurerAdapter;bean_name=ignoredPathsWebSecurityConfigurerAdapter" target="module=try_security;bean_class=org.springframework.boot.autoconfigure.web.BasicErrorController;bean_name=basicErrorController">
+              <point x="-128.5" y="8.0" />
+              <point x="823.0" y="2355.554281345565" />
+              <point x="743.0" y="2763.054281345565" />
+              <point x="63.5" y="-0.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=com.trysecuritty.auth.service.UserDetailsServiceImpl;bean_name=userDetailsServiceImpl" target="module=try_security;bean_class=com.trysecuritty.auth.repository.UserRepository;bean_name=userRepository">
+              <point x="0.0" y="10.0" />
+              <point x="0.0" y="-10.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.boot.autoconfigure.web.ErrorMvcAutoConfiguration;bean_name=errorMvcAutoConfiguration" target="module=try_security;bean_class=org.springframework.boot.autoconfigure.web.ErrorMvcAutoConfiguration.PreserveErrorControllerTargetClassPostProcessor;bean_name=preserveErrorControllerTargetClassPostProcessor">
+              <point x="85.0" y="8.0" />
+              <point x="313.0" y="2678.5744138634054" />
+              <point x="393.0" y="2943.054281345565" />
+              <point x="-139.5" y="-0.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.boot.autoconfigure.web.WebMvcAutoConfiguration.EnableWebMvcConfiguration;bean_name=enableWebMvcConfiguration" target="module=try_security;bean_class=org.springframework.boot.autoconfigure.web.WebMvcProperties;bean_name=spring.mvc.CONFIGURATION_PROPERTIES">
+              <point x="-89.0" y="6.666666666666629" />
+              <point x="433.0" y="1216.6666666666665" />
+              <point x="433.0" y="1337.5188583078498" />
+              <point x="-124.0" y="-6.6666666666667425" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.boot.autoconfigure.web.WebMvcAutoConfiguration.WebMvcAutoConfigurationAdapter;bean_name=webMvcAutoConfigurationAdapter" target="module=try_security;bean_class=org.springframework.web.servlet.view.ContentNegotiatingViewResolver;bean_name=viewResolver">
+              <point x="104.5" y="-4.166666666666686" />
+              <point x="313.0" y="1010.0188583078498" />
+              <point x="393.0" y="850.0" />
+              <point x="-45.0" y="-0.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=com.trysecuritty.WebApplication;bean_name=webApplication" target="module=try_security;bean_class=com.trysecuritty.auth.repository.RoleRepository;bean_name=roleRepository">
+              <point x="52.5" y="1.25" />
+              <point x="313.0" y="3001.8244138634054" />
+              <point x="393.0" y="3183.054281345565" />
+              <point x="-49.0" y="-0.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.boot.autoconfigure.web.ServerPropertiesAutoConfiguration;bean_name=serverPropertiesAutoConfiguration" target="module=try_security;bean_class=org.springframework.boot.autoconfigure.web.ServerProperties;bean_name=serverProperties">
+              <point x="103.0" y="-5.0" />
+              <point x="313.0" y="2275.5744138634054" />
+              <point x="393.0" y="2403.054281345565" />
+              <point x="-53.0" y="-0.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.security.config.annotation.web.configuration.WebSecurityConfiguration;bean_name=webSecurityConfiguration" target="module=try_security;bean_class=org.springframework.security.access.expression.SecurityExpressionHandler;bean_name=webSecurityExpressionHandler">
+              <point x="80.0" y="-0.0" />
+              <point x="1105.0" y="1993.0555555555554" />
+              <point x="1185.0" y="1978.9077471967387" />
+              <point x="-91.5" y="-0.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.boot.autoconfigure.jdbc.XADataSourceAutoConfiguration;bean_name=XADataSourceAutoConfiguration" target="module=try_security;bean_class=org.springframework.boot.autoconfigure.jdbc.DataSourceProperties;bean_name=spring.datasource.CONFIGURATION_PROPERTIES">
+              <point x="98.5" y="5.0" />
+              <point x="-141.5" y="-0.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.boot.autoconfigure.web.WebMvcAutoConfiguration.EnableWebMvcConfiguration;bean_name=enableWebMvcConfiguration" target="module=try_security;bean_class=org.springframework.web.servlet.ViewResolver;bean_name=mvcViewResolver">
+              <point x="89.0" y="8.333333333333371" />
+              <point x="743.0" y="1218.3333333333335" />
+              <point x="823.0" y="1678.9077471967387" />
+              <point x="-57.0" y="-0.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.boot.autoconfigure.dao.PersistenceExceptionTranslationAutoConfiguration;bean_name=persistenceExceptionTranslationAutoConfiguration" target="module=try_security;bean_class=org.springframework.dao.annotation.PersistenceExceptionTranslationPostProcessor;bean_name=persistenceExceptionTranslationPostProcessor">
+              <point x="145.5" y="-0.0" />
+              <point x="-132.5" y="-0.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.security.config.annotation.authentication.configuration.AuthenticationConfiguration;bean_name=authenticationConfiguration" target="module=try_security;bean_class=org.springframework.security.config.annotation.authentication.configurers.GlobalAuthenticationConfigurerAdapter;bean_name=enableGlobalAuthenticationAutowiredConfigurer">
+              <point x="86.5" y="-5.0" />
+              <point x="743.0" y="1838.3600917431193" />
+              <point x="-141.0" y="-0.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.boot.autoconfigure.security.SecurityAutoConfiguration;bean_name=securityAutoConfiguration" target="module=try_security;bean_class=org.springframework.boot.autoconfigure.security.AuthenticationManagerConfiguration;bean_name=authenticationManagerConfiguration">
+              <point x="81.5" y="4.0" />
+              <point x="313.0" y="2434.5744138634054" />
+              <point x="393.0" y="2643.054281345565" />
+              <point x="-110.0" y="-0.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.boot.autoconfigure.web.MultipartAutoConfiguration;bean_name=multipartAutoConfiguration" target="module=try_security;bean_class=org.springframework.boot.autoconfigure.web.MultipartProperties;bean_name=multipart.CONFIGURATION_PROPERTIES">
+              <point x="85.5" y="-6.666666666666515" />
+              <point x="313.0" y="1457.51885830785" />
+              <point x="393.0" y="1404.1855249745165" />
+              <point x="-119.0" y="-0.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.boot.autoconfigure.web.ServerPropertiesAutoConfiguration;bean_name=serverPropertiesAutoConfiguration" target="module=try_security;bean_class=org.springframework.boot.autoconfigure.web.ServerPropertiesAutoConfiguration.DuplicateServerPropertiesDetector;bean_name=duplicateServerPropertiesDetector">
+              <point x="103.0" y="5.0" />
+              <point x="313.0" y="2285.5744138634054" />
+              <point x="393.0" y="2463.054281345565" />
+              <point x="-100.5" y="-0.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.boot.autoconfigure.security.SpringBootWebSecurityConfiguration.ApplicationWebSecurityConfigurerAdapter;bean_name=applicationWebSecurityConfigurerAdapter" target="module=try_security;bean_class=org.springframework.boot.autoconfigure.security.SecurityProperties;bean_name=securityProperties">
+              <point x="123.0" y="5.0" />
+              <point x="313.0" y="1866.4077471967387" />
+              <point x="393.0" y="2162.054281345565" />
+              <point x="-58.0" y="-5.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.security.config.annotation.web.configuration.WebSecurityConfiguration;bean_name=webSecurityConfiguration" target="module=try_security;bean_class=org.springframework.security.config.annotation.web.configuration.AutowiredWebSecurityConfigurersIgnoreParents;bean_name=autowiredWebSecurityConfigurersIgnoreParents">
+              <point x="80.0" y="8.0" />
+              <point x="1105.0" y="2001.0555555555554" />
+              <point x="-138.0" y="-0.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.boot.autoconfigure.websocket.WebSocketAutoConfiguration.TomcatWebSocketConfiguration;bean_name=tomcatWebSocketConfiguration" target="module=try_security;bean_class=org.springframework.boot.autoconfigure.websocket.TomcatWebSocketContainerCustomizer;bean_name=websocketContainerCustomizer">
+              <point x="96.5" y="-0.0" />
+              <point x="-95.0" y="-0.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.boot.autoconfigure.jackson.JacksonAutoConfiguration.JacksonObjectMapperBuilderConfiguration;bean_name=jacksonObjectMapperBuilderConfiguration" target="module=try_security;bean_class=org.springframework.http.converter.json.Jackson2ObjectMapperBuilder;bean_name=jacksonObjectMapperBuilder">
+              <point x="124.5" y="-0.0" />
+              <point x="-87.5" y="-0.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.boot.autoconfigure.web.WebMvcAutoConfiguration.WebMvcAutoConfigurationAdapter;bean_name=webMvcAutoConfigurationAdapter" target="module=try_security;bean_class=org.springframework.http.converter.StringHttpMessageConverter;bean_name=stringHttpMessageConverter">
+              <point x="104.5" y="-9.166666666666686" />
+              <point x="313.0" y="1005.0188583078498" />
+              <point x="393.0" y="256.66666666666674" />
+              <point x="-87.0" y="6.666666666666629" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.security.config.annotation.authentication.configuration.AuthenticationConfiguration;bean_name=authenticationConfiguration" target="module=try_security;bean_class=org.springframework.security.config.annotation.ObjectPostProcessor;bean_name=objectPostProcessor">
+              <point x="0.0" y="10.0" />
+              <point x="0.0" y="-10.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.boot.autoconfigure.web.WebMvcAutoConfiguration.EnableWebMvcConfiguration;bean_name=enableWebMvcConfiguration" target="module=try_security;bean_class=org.springframework.web.servlet.resource.ResourceUrlProvider;bean_name=mvcResourceUrlProvider">
+              <point x="89.0" y="-7.222222222222172" />
+              <point x="743.0" y="1202.7777777777778" />
+              <point x="823.0" y="834.1855249745165" />
+              <point x="-76.0" y="-0.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.boot.autoconfigure.security.SecurityFilterAutoConfiguration;bean_name=securityFilterAutoConfiguration" target="module=try_security;bean_class=org.springframework.boot.context.embedded.DelegatingFilterProxyRegistrationBean;bean_name=securityFilterChainRegistration">
+              <point x="94.5" y="5.0" />
+              <point x="313.0" y="2138.0744138634054" />
+              <point x="393.0" y="2343.054281345565" />
+              <point x="-91.5" y="-0.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=com.trysecuritty.config.WebSecurityConfig;bean_name=webSecurityConfig" target="module=try_security;bean_class=org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;bean_name=bCryptPasswordEncoder">
+              <point x="61.0" y="8.0" />
+              <point x="743.0" y="2088.3876146788984" />
+              <point x="823.0" y="2667.5744138634054" />
+              <point x="-75.5" y="-5.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.data.web.config.SpringDataWebConfiguration;bean_name=springDataWebConfiguration" target="module=try_security;bean_class=org.springframework.web.context.WebApplicationContext;bean_name=webApplicationContext">
+              <point x="88.5" y="7.5" />
+              <point x="313.0" y="601.6855249745165" />
+              <point x="393.0" y="1265.0" />
+              <point x="-73.0" y="-5.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.boot.autoconfigure.web.WebMvcAutoConfiguration.EnableWebMvcConfiguration;bean_name=enableWebMvcConfiguration" target="module=try_security;bean_class=org.springframework.web.servlet.mvc.SimpleControllerHandlerAdapter;bean_name=simpleControllerHandlerAdapter">
+              <point x="89.0" y="3.888888888888914" />
+              <point x="743.0" y="1213.888888888889" />
+              <point x="823.0" y="1438.9077471967387" />
+              <point x="-97.0" y="-0.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=com.trysecuritty.config.WebSecurityConfig;bean_name=webSecurityConfig" target="module=try_security;bean_class=org.springframework.web.accept.ContentNegotiationManager;bean_name=mvcContentNegotiationManager">
+              <point x="-61.0" y="-4.0" />
+              <point x="403.0" y="2076.3876146788984" />
+              <point x="403.0" y="1770.8521916411833" />
+              <point x="-99.0" y="6.6666666666667425" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.boot.autoconfigure.web.WebMvcAutoConfiguration.EnableWebMvcConfiguration;bean_name=enableWebMvcConfiguration" target="module=try_security;bean_class=org.springframework.web.servlet.mvc.HttpRequestHandlerAdapter;bean_name=httpRequestHandlerAdapter">
+              <point x="89.0" y="-9.444444444444457" />
+              <point x="743.0" y="1200.5555555555557" />
+              <point x="823.0" y="714.1855249745165" />
+              <point x="-85.0" y="-0.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=com.trysecuritty.auth.validator.UserValidator;bean_name=userValidator" target="module=try_security;bean_class=com.trysecuritty.auth.service.UserServiceImpl;bean_name=userServiceImpl">
+              <point x="-45.5" y="-5.0" />
+              <point x="393.0" y="3358.054281345565" />
+              <point x="393.0" y="3249.720948012232" />
+              <point x="-52.5" y="6.666666666666515" />
+            </edge>
+            <edge source="module=try_security;bean_class=com.trysecuritty.config.WebSecurityConfig;bean_name=webSecurityConfig" target="module=try_security;bean_class=org.springframework.security.config.annotation.configuration.ObjectPostProcessorConfiguration;bean_name=objectPostProcessorConfiguration">
+              <point x="61.0" y="-4.0" />
+              <point x="743.0" y="2076.3876146788984" />
+              <point x="823.0" y="1938.0555555555554" />
+              <point x="-101.5" y="5.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.boot.autoconfigure.web.WebMvcAutoConfiguration.WebMvcAutoConfigurationAdapter;bean_name=webMvcAutoConfigurationAdapter" target="module=try_security;bean_class=org.springframework.web.servlet.LocaleResolver;bean_name=localeResolver">
+              <point x="104.5" y="0.8333333333333144" />
+              <point x="313.0" y="1015.0188583078498" />
+              <point x="393.0" y="1030.0" />
+              <point x="-48.5" y="-0.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.boot.autoconfigure.web.DispatcherServletAutoConfiguration.DispatcherServletConfiguration;bean_name=dispatcherServletConfiguration" target="module=try_security;bean_class=javax.servlet.MultipartConfigElement;bean_name=multipartConfigElement">
+              <point x="93.0" y="-5.0" />
+              <point x="313.0" y="1609.1855249745165" />
+              <point x="393.0" y="1529.1855249745165" />
+              <point x="-75.0" y="5.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.boot.autoconfigure.web.HttpMessageConvertersAutoConfiguration.StringHttpMessageConverterConfiguration;bean_name=stringHttpMessageConverterConfiguration" target="module=try_security;bean_class=org.springframework.boot.autoconfigure.web.HttpEncodingProperties;bean_name=spring.http.encoding.CONFIGURATION_PROPERTIES">
+              <point x="124.0" y="-5.0" />
+              <point x="-150.0" y="5.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=com.trysecuritty.auth.service.UserServiceImpl;bean_name=userServiceImpl" target="module=try_security;bean_class=org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;bean_name=bCryptPasswordEncoder">
+              <point x="52.5" y="-0.0" />
+              <point x="743.0" y="3243.054281345565" />
+              <point x="823.0" y="2677.5744138634054" />
+              <point x="-75.5" y="5.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.boot.autoconfigure.cache.CacheAutoConfiguration;bean_name=cacheAutoConfiguration" target="module=try_security;bean_class=org.springframework.boot.autoconfigure.cache.CacheAutoConfiguration.CacheManagerValidator;bean_name=cacheAutoConfigurationValidator">
+              <point x="76.5" y="7.5" />
+              <point x="2447.0" y="190.0" />
+              <point x="-100.0" y="-0.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.boot.autoconfigure.security.SpringBootWebSecurityConfiguration.ApplicationWebSecurityConfigurerAdapter;bean_name=applicationWebSecurityConfigurerAdapter" target="module=try_security;bean_class=org.springframework.security.config.annotation.authentication.configuration.AuthenticationConfiguration;bean_name=authenticationConfiguration">
+              <point x="123.0" y="-1.6666666666667425" />
+              <point x="313.0" y="1859.741080530072" />
+              <point x="393.0" y="1843.3600917431193" />
+              <point x="-86.5" y="-0.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.boot.autoconfigure.web.ErrorMvcAutoConfiguration;bean_name=errorMvcAutoConfiguration" target="module=try_security;bean_class=org.springframework.boot.autoconfigure.web.ServerProperties;bean_name=serverProperties">
+              <point x="85.0" y="-8.0" />
+              <point x="313.0" y="2662.5744138634054" />
+              <point x="393.0" y="2409.720948012232" />
+              <point x="-53.0" y="6.666666666666515" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.boot.autoconfigure.security.SecurityAutoConfiguration;bean_name=securityAutoConfiguration" target="module=try_security;bean_class=org.springframework.boot.autoconfigure.security.SecurityProperties;bean_name=securityProperties">
+              <point x="81.5" y="-8.0" />
+              <point x="313.0" y="2422.5744138634054" />
+              <point x="393.0" y="2288.054281345565" />
+              <point x="-58.0" y="5.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.boot.autoconfigure.web.WebMvcAutoConfiguration.WebMvcAutoConfigurationAdapter.FaviconConfiguration;bean_name=faviconConfiguration" target="module=try_security;bean_class=org.springframework.boot.autoconfigure.web.ResourceProperties;bean_name=spring.resources.CONFIGURATION_PROPERTIES">
+              <point x="67.5" y="6.666666666666629" />
+              <point x="313.0" y="750.8521916411831" />
+              <point x="393.0" y="785.0" />
+              <point x="-137.5" y="-5.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=com.trysecuritty.WebApplication;bean_name=webApplication" target="module=try_security;bean_class=com.trysecuritty.auth.service.SecurityServiceImpl;bean_name=securityServiceImpl">
+              <point x="52.5" y="-1.25" />
+              <point x="313.0" y="2999.3244138634054" />
+              <point x="393.0" y="3123.054281345565" />
+              <point x="-62.0" y="-0.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=com.trysecuritty.auth.web.UserController;bean_name=userController" target="module=try_security;bean_class=com.trysecuritty.auth.service.SecurityServiceImpl;bean_name=securityServiceImpl">
+              <point x="-48.5" y="-5.0" />
+              <point x="403.0" y="3298.054281345565" />
+              <point x="403.0" y="3129.720948012232" />
+              <point x="-62.0" y="6.666666666666515" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.security.config.annotation.authentication.configuration.AuthenticationConfiguration;bean_name=authenticationConfiguration" target="module=try_security;bean_class=org.springframework.web.context.WebApplicationContext;bean_name=webApplicationContext">
+              <point x="-86.5" y="-6.6666666666667425" />
+              <point x="413.0" y="1836.6934250764525" />
+              <point x="413.0" y="1278.3333333333333" />
+              <point x="-73.0" y="8.333333333333258" />
+            </edge>
+            <edge source="module=try_security;bean_class=com.trysecuritty.config.WebSecurityConfig;bean_name=webSecurityConfig" target="module=try_security;bean_class=org.springframework.security.config.annotation.authentication.configuration.AuthenticationConfiguration;bean_name=authenticationConfiguration">
+              <point x="-61.0" y="-8.0" />
+              <point x="413.0" y="2072.3876146788984" />
+              <point x="413.0" y="1850.026758409786" />
+              <point x="-86.5" y="6.6666666666667425" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.boot.autoconfigure.MessageSourceAutoConfiguration;bean_name=messageSourceAutoConfiguration" target="module=try_security;bean_class=org.springframework.context.MessageSource;bean_name=messageSource">
+              <point x="102.0" y="-0.0" />
+              <point x="-52.0" y="-0.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.boot.autoconfigure.orm.jpa.HibernateJpaAutoConfiguration;bean_name=hibernateJpaAutoConfiguration" target="module=try_security;bean_class=org.springframework.transaction.jta.JtaTransactionManager;bean_name=transactionManager">
+              <point x="94.5" y="-8.333333333333314" />
+              <point x="1796.0" y="276.6666666666667" />
+              <point x="1876.0" y="141.66666666666663" />
+              <point x="-64.0" y="6.666666666666629" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.boot.autoconfigure.cache.CacheAutoConfiguration;bean_name=cacheAutoConfiguration" target="module=try_security;bean_class=org.springframework.boot.autoconfigure.cache.CacheManagerCustomizers;bean_name=cacheManagerCustomizers">
+              <point x="76.5" y="-7.5" />
+              <point x="2447.0" y="10.0" />
+              <point x="-82.5" y="-0.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.boot.autoconfigure.web.WebMvcAutoConfiguration;bean_name=webMvcAutoConfiguration" target="module=try_security;bean_class=org.springframework.boot.context.web.OrderedHttpPutFormContentFilter;bean_name=httpPutFormContentFilter">
+              <point x="83.5" y="5.0" />
+              <point x="-79.5" y="-0.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.boot.autoconfigure.jackson.JacksonAutoConfiguration.JacksonObjectMapperBuilderConfiguration;bean_name=jacksonObjectMapperBuilderConfiguration" target="module=try_security;bean_class=org.springframework.web.context.WebApplicationContext;bean_name=webApplicationContext">
+              <point x="124.5" y="6.6666666666667425" />
+              <point x="313.0" y="436.66666666666674" />
+              <point x="393.0" y="1261.6666666666667" />
+              <point x="-73.0" y="-8.333333333333258" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.boot.autoconfigure.jackson.JacksonAutoConfiguration.JacksonObjectMapperConfiguration;bean_name=jacksonObjectMapperConfiguration" target="module=try_security;bean_class=com.fasterxml.jackson.databind.ObjectMapper;bean_name=jacksonObjectMapper">
+              <point x="106.0" y="-0.0" />
+              <point x="-69.0" y="-0.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.boot.autoconfigure.web.WebMvcAutoConfiguration.WebMvcAutoConfigurationAdapter;bean_name=webMvcAutoConfigurationAdapter" target="module=try_security;bean_class=org.springframework.web.filter.RequestContextFilter;bean_name=requestContextFilter">
+              <point x="104.5" y="2.5" />
+              <point x="313.0" y="1016.6855249745165" />
+              <point x="393.0" y="1090.0" />
+              <point x="-64.0" y="-0.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.boot.autoconfigure.web.EmbeddedServletContainerAutoConfiguration;bean_name=embeddedServletContainerAutoConfiguration" target="module=try_security;bean_class=org.springframework.boot.autoconfigure.web.EmbeddedServletContainerAutoConfiguration.EmbeddedServletContainerCustomizerBeanPostProcessorRegistrar;bean_name=embeddedServletContainerCustomizerBeanPostProcessorRegistrar">
+              <point x="133.0" y="-0.0" />
+              <point x="-186.0" y="-0.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.boot.autoconfigure.web.DispatcherServletAutoConfiguration.DispatcherServletConfiguration;bean_name=dispatcherServletConfiguration" target="module=try_security;bean_class=org.springframework.boot.autoconfigure.web.ServerProperties;bean_name=serverProperties">
+              <point x="93.0" y="8.333333333333485" />
+              <point x="313.0" y="1622.51885830785" />
+              <point x="393.0" y="2396.387614678899" />
+              <point x="-53.0" y="-6.666666666666515" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.boot.autoconfigure.web.WebMvcAutoConfiguration.WebMvcAutoConfigurationAdapter;bean_name=webMvcAutoConfigurationAdapter" target="module=try_security;bean_class=org.springframework.boot.autoconfigure.web.WebMvcProperties;bean_name=spring.mvc.CONFIGURATION_PROPERTIES">
+              <point x="104.5" y="9.166666666666686" />
+              <point x="313.0" y="1023.3521916411833" />
+              <point x="393.0" y="1344.1855249745165" />
+              <point x="-124.0" y="-0.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=com.trysecuritty.auth.service.SecurityServiceImpl;bean_name=securityServiceImpl" target="module=try_security;bean_class=com.trysecuritty.auth.service.UserDetailsServiceImpl;bean_name=userDetailsServiceImpl">
+              <point x="-62.0" y="-6.666666666666515" />
+              <point x="423.0" y="3116.387614678899" />
+              <point x="423.0" y="3009.720948012232" />
+              <point x="-70.0" y="6.666666666666515" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.boot.autoconfigure.jdbc.XADataSourceAutoConfiguration;bean_name=XADataSourceAutoConfiguration" target="module=try_security;bean_class=javax.sql.DataSource;bean_name=dataSource">
+              <point x="98.5" y="-5.0" />
+              <point x="1796.0" y="668.5119047619048" />
+              <point x="1876.0" y="506.0119047619047" />
+              <point x="-40.5" y="7.5" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.boot.autoconfigure.transaction.TransactionAutoConfiguration;bean_name=transactionAutoConfiguration" target="module=try_security;bean_class=org.springframework.jdbc.datasource.DataSourceTransactionManager;bean_name=transactionManager">
+              <point x="90.5" y="7.5" />
+              <point x="1796.0" y="170.0" />
+              <point x="1876.0" y="430.0" />
+              <point x="-64.0" y="-5.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=com.trysecuritty.config.WebSecurityConfig;bean_name=webSecurityConfig" target="module=try_security;bean_class=org.springframework.security.config.annotation.ObjectPostProcessor;bean_name=objectPostProcessor">
+              <point x="0.0" y="-10.0" />
+              <point x="0.0" y="10.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration;bean_name=dataSourceAutoConfiguration" target="module=try_security;bean_class=org.springframework.boot.autoconfigure.jdbc.DataSourceInitializerPostProcessor.Registrar;bean_name=registrar">
+              <point x="90.5" y="-5.0" />
+              <point x="261.0" y="3428.054281345565" />
+              <point x="-32.5" y="-0.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.data.web.config.SpringDataWebConfiguration;bean_name=springDataWebConfiguration" target="module=try_security;bean_class=org.springframework.data.web.PageableHandlerMethodArgumentResolver;bean_name=pageableResolver">
+              <point x="88.5" y="2.5" />
+              <point x="313.0" y="596.6855249745165" />
+              <point x="393.0" y="610.0" />
+              <point x="-57.0" y="-0.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.security.config.annotation.authentication.configuration.AuthenticationConfiguration;bean_name=authenticationConfiguration" target="module=try_security;bean_class=org.springframework.security.config.annotation.authentication.builders.AuthenticationManagerBuilder;bean_name=authenticationManagerBuilder">
+              <point x="86.5" y="5.0" />
+              <point x="743.0" y="1848.3600917431193" />
+              <point x="823.0" y="1868.0555555555554" />
+              <point x="-91.5" y="-5.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.boot.autoconfigure.security.AuthenticationManagerConfiguration.SpringBootAuthenticationConfigurerAdapter;bean_name=springBootAuthenticationConfigurerAdapter" target="module=try_security;bean_class=org.springframework.boot.autoconfigure.security.SecurityProperties;bean_name=securityProperties">
+              <point x="-129.0" y="-0.0" />
+              <point x="743.0" y="2278.054281345565" />
+              <point x="58.0" y="-5.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.boot.autoconfigure.web.HttpMessageConvertersAutoConfiguration;bean_name=httpMessageConvertersAutoConfiguration" target="module=try_security;bean_class=org.springframework.http.converter.StringHttpMessageConverter;bean_name=stringHttpMessageConverter">
+              <point x="123.5" y="2.5" />
+              <point x="313.0" y="222.5" />
+              <point x="393.0" y="250.0" />
+              <point x="-87.0" y="-0.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.boot.autoconfigure.jdbc.DataSourceInitializer;bean_name=dataSourceInitializer" target="module=try_security;bean_class=org.springframework.boot.autoconfigure.jdbc.DataSourceProperties;bean_name=spring.datasource.CONFIGURATION_PROPERTIES">
+              <point x="0.0" y="-10.0" />
+              <point x="0.0" y="10.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.security.config.annotation.web.configuration.WebSecurityConfiguration;bean_name=webSecurityConfiguration" target="module=try_security;bean_class=org.springframework.security.web.access.WebInvocationPrivilegeEvaluator;bean_name=privilegeEvaluator">
+              <point x="80.0" y="-8.0" />
+              <point x="1105.0" y="1985.0555555555554" />
+              <point x="1185.0" y="1858.9077471967387" />
+              <point x="-58.0" y="-0.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.boot.autoconfigure.web.WebMvcAutoConfiguration.WebMvcAutoConfigurationAdapter;bean_name=webMvcAutoConfigurationAdapter" target="module=try_security;bean_class=org.springframework.http.converter.json.MappingJackson2HttpMessageConverter;bean_name=mappingJackson2HttpMessageConverter">
+              <point x="104.5" y="-7.5" />
+              <point x="313.0" y="1006.6855249745165" />
+              <point x="393.0" y="316.66666666666674" />
+              <point x="-119.5" y="6.666666666666686" />
+            </edge>
+            <edge source="module=try_security;bean_class=com.trysecuritty.auth.service.SecurityServiceImpl;bean_name=securityServiceImpl" target="module=try_security;bean_class=org.springframework.security.authentication.AuthenticationManager;bean_name=authenticationManager">
+              <point x="62.0" y="-0.0" />
+              <point x="743.0" y="3123.054281345565" />
+              <point x="823.0" y="3169.3600917431195" />
+              <point x="-73.0" y="5.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.boot.autoconfigure.web.WebMvcAutoConfiguration.EnableWebMvcConfiguration;bean_name=enableWebMvcConfiguration" target="module=try_security;bean_class=org.springframework.util.PathMatcher;bean_name=mvcPathMatcher">
+              <point x="89.0" y="-6.111111111111086" />
+              <point x="743.0" y="1203.888888888889" />
+              <point x="823.0" y="894.1855249745165" />
+              <point x="-56.5" y="-0.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.boot.autoconfigure.web.ErrorMvcAutoConfiguration;bean_name=errorMvcAutoConfiguration" target="module=try_security;bean_class=org.springframework.boot.autoconfigure.web.ErrorMvcAutoConfiguration.ErrorPageCustomizer;bean_name=errorPageCustomizer">
+              <point x="85.0" y="-0.0" />
+              <point x="313.0" y="2670.5744138634054" />
+              <point x="393.0" y="2823.054281345565" />
+              <point x="-66.5" y="-0.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.boot.autoconfigure.web.HttpMessageConvertersAutoConfiguration.StringHttpMessageConverterConfiguration;bean_name=stringHttpMessageConverterConfiguration" target="module=try_security;bean_class=org.springframework.http.converter.StringHttpMessageConverter;bean_name=stringHttpMessageConverter">
+              <point x="124.0" y="5.0" />
+              <point x="313.0" y="85.0" />
+              <point x="393.0" y="243.33333333333326" />
+              <point x="-87.0" y="-6.666666666666629" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.boot.autoconfigure.web.WebMvcAutoConfiguration.WebMvcAutoConfigurationAdapter;bean_name=webMvcAutoConfigurationAdapter" target="module=try_security;bean_class=org.springframework.boot.autoconfigure.web.WebMvcAutoConfiguration.EnableWebMvcConfiguration;bean_name=enableWebMvcConfiguration">
+              <point x="104.5" y="5.833333333333314" />
+              <point x="313.0" y="1020.0188583078498" />
+              <point x="393.0" y="1203.3333333333335" />
+              <point x="-89.0" y="-6.666666666666629" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.boot.autoconfigure.security.SpringBootWebSecurityConfiguration.IgnoredPathsWebSecurityConfigurerAdapter;bean_name=ignoredPathsWebSecurityConfigurerAdapter" target="module=try_security;bean_class=org.springframework.boot.autoconfigure.security.SecurityProperties;bean_name=securityProperties">
+              <point x="-128.5" y="-4.0" />
+              <point x="823.0" y="2343.554281345565" />
+              <point x="743.0" y="2288.054281345565" />
+              <point x="58.0" y="5.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=com.trysecuritty.config.WebSecurityConfig;bean_name=webSecurityConfig" target="module=try_security;bean_class=org.springframework.web.context.WebApplicationContext;bean_name=webApplicationContext">
+              <point x="-61.0" y="-0.0" />
+              <point x="393.0" y="2080.3876146788984" />
+              <point x="393.0" y="1275.0" />
+              <point x="-73.0" y="5.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.boot.autoconfigure.security.AuthenticationManagerConfiguration;bean_name=authenticationManagerConfiguration" target="module=try_security;bean_class=org.springframework.security.authentication.AuthenticationManager;bean_name=authenticationManager">
+              <point x="110.0" y="5.0" />
+              <point x="743.0" y="2648.054281345565" />
+              <point x="823.0" y="3159.3600917431195" />
+              <point x="-73.0" y="-5.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.boot.autoconfigure.security.AuthenticationManagerConfiguration;bean_name=authenticationManagerConfiguration" target="module=try_security;bean_class=org.springframework.boot.autoconfigure.security.AuthenticationManagerConfiguration.SpringBootAuthenticationConfigurerAdapter;bean_name=springBootAuthenticationConfigurerAdapter">
+              <point x="110.0" y="-5.0" />
+              <point x="743.0" y="2638.054281345565" />
+              <point x="-129.0" y="6.666666666666515" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.boot.autoconfigure.web.WebMvcAutoConfiguration.EnableWebMvcConfiguration;bean_name=enableWebMvcConfiguration" target="module=try_security;bean_class=org.springframework.web.servlet.HandlerMapping;bean_name=viewControllerHandlerMapping">
+              <point x="89.0" y="-5.0" />
+              <point x="743.0" y="1205.0" />
+              <point x="823.0" y="954.1855249745165" />
+              <point x="-94.5" y="-0.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.boot.autoconfigure.transaction.jta.JtaAutoConfiguration;bean_name=jtaAutoConfiguration" target="module=try_security;bean_class=org.springframework.boot.autoconfigure.transaction.jta.JndiJtaConfiguration;bean_name=jndiJtaConfiguration">
+              <point x="67.5" y="-0.0" />
+              <point x="-65.0" y="-5.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.boot.autoconfigure.web.WebMvcAutoConfiguration.WebMvcAutoConfigurationAdapter.FaviconConfiguration;bean_name=faviconConfiguration" target="module=try_security;bean_class=org.springframework.web.servlet.resource.ResourceHttpRequestHandler;bean_name=faviconRequestHandler">
+              <point x="67.5" y="-6.666666666666629" />
+              <point x="313.0" y="737.5188583078499" />
+              <point x="393.0" y="670.0" />
+              <point x="-72.5" y="-0.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.boot.autoconfigure.web.WebMvcAutoConfiguration.EnableWebMvcConfiguration;bean_name=enableWebMvcConfiguration" target="module=try_security;bean_class=org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping;bean_name=requestMappingHandlerMapping">
+              <point x="89.0" y="5.0" />
+              <point x="743.0" y="1215.0" />
+              <point x="823.0" y="1498.9077471967387" />
+              <point x="-99.5" y="-0.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.boot.autoconfigure.orm.jpa.HibernateJpaAutoConfiguration;bean_name=hibernateJpaAutoConfiguration" target="module=try_security;bean_class=javax.sql.DataSource;bean_name=dataSource">
+              <point x="94.5" y="8.333333333333314" />
+              <point x="1796.0" y="293.3333333333333" />
+              <point x="1876.0" y="491.0119047619047" />
+              <point x="-40.5" y="-7.5" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.boot.autoconfigure.web.WebMvcAutoConfiguration.EnableWebMvcConfiguration;bean_name=enableWebMvcConfiguration" target="module=try_security;bean_class=org.springframework.web.accept.ContentNegotiationManager;bean_name=mvcContentNegotiationManager">
+              <point x="-89.0" y="-0.0" />
+              <point x="423.0" y="1210.0" />
+              <point x="423.0" y="1757.5188583078498" />
+              <point x="-99.0" y="-6.6666666666667425" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.boot.autoconfigure.web.DispatcherServletAutoConfiguration.DispatcherServletConfiguration;bean_name=dispatcherServletConfiguration" target="module=try_security;bean_class=org.springframework.boot.context.embedded.ServletRegistrationBean;bean_name=dispatcherServletRegistration">
+              <point x="93.0" y="5.0" />
+              <point x="313.0" y="1619.1855249745165" />
+              <point x="393.0" y="1704.1855249745165" />
+              <point x="-87.5" y="-0.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.boot.autoconfigure.transaction.TransactionAutoConfiguration;bean_name=transactionAutoConfiguration" target="module=try_security;bean_class=org.springframework.transaction.PlatformTransactionManager;bean_name=transactionManager">
+              <point x="90.5" y="2.5" />
+              <point x="1796.0" y="165.0" />
+              <point x="1876.0" y="190.0" />
+              <point x="-64.0" y="-5.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.boot.autoconfigure.web.ErrorMvcAutoConfiguration;bean_name=errorMvcAutoConfiguration" target="module=try_security;bean_class=org.springframework.boot.autoconfigure.web.BasicErrorController;bean_name=basicErrorController">
+              <point x="85.0" y="-4.0" />
+              <point x="313.0" y="2666.5744138634054" />
+              <point x="393.0" y="2763.054281345565" />
+              <point x="-63.5" y="-0.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.boot.autoconfigure.web.MultipartAutoConfiguration;bean_name=multipartAutoConfiguration" target="module=try_security;bean_class=org.springframework.web.multipart.support.StandardServletMultipartResolver;bean_name=multipartResolver">
+              <point x="85.5" y="-0.0" />
+              <point x="-57.5" y="-0.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.boot.autoconfigure.security.SpringBootWebSecurityConfiguration.ApplicationWebSecurityConfigurerAdapter;bean_name=applicationWebSecurityConfigurerAdapter" target="module=try_security;bean_class=org.springframework.web.context.WebApplicationContext;bean_name=webApplicationContext">
+              <point x="123.0" y="-8.333333333333258" />
+              <point x="313.0" y="1853.0744138634054" />
+              <point x="393.0" y="1271.6666666666667" />
+              <point x="-73.0" y="1.6666666666667425" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.boot.autoconfigure.cache.CacheAutoConfiguration;bean_name=cacheAutoConfiguration" target="module=try_security;bean_class=org.springframework.boot.autoconfigure.cache.CacheAutoConfiguration.CacheManagerValidatorPostProcessor;bean_name=cacheAutoConfigurationValidatorPostProcessor">
+              <point x="76.5" y="2.5" />
+              <point x="-137.0" y="-0.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration.JdbcTemplateConfiguration;bean_name=jdbcTemplateConfiguration" target="module=try_security;bean_class=javax.sql.DataSource;bean_name=dataSource">
+              <point x="84.5" y="-6.666666666666657" />
+              <point x="1796.0" y="548.3333333333334" />
+              <point x="1876.0" y="501.0119047619047" />
+              <point x="-40.5" y="2.5" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.boot.autoconfigure.jdbc.metadata.DataSourcePoolMetadataProvidersConfiguration.TomcatDataSourcePoolMetadataProviderConfiguration;bean_name=tomcatDataSourcePoolMetadataProviderConfiguration" target="module=try_security;bean_class=org.springframework.boot.autoconfigure.jdbc.metadata.DataSourcePoolMetadataProvider;bean_name=tomcatPoolDataSourceMetadataProvider">
+              <point x="156.0" y="-0.0" />
+              <point x="-119.0" y="-0.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.boot.autoconfigure.jackson.JacksonAutoConfiguration.JacksonObjectMapperBuilderConfiguration;bean_name=jacksonObjectMapperBuilderConfiguration" target="module=try_security;bean_class=org.springframework.boot.autoconfigure.jackson.JacksonProperties;bean_name=spring.jackson.CONFIGURATION_PROPERTIES">
+              <point x="124.5" y="-6.6666666666667425" />
+              <point x="313.0" y="423.33333333333326" />
+              <point x="393.0" y="370.0" />
+              <point x="-132.5" y="-0.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.boot.autoconfigure.security.SpringBootWebSecurityConfiguration.ApplicationWebSecurityConfigurerAdapter;bean_name=applicationWebSecurityConfigurerAdapter" target="module=try_security;bean_class=org.springframework.web.accept.ContentNegotiationManager;bean_name=mvcContentNegotiationManager">
+              <point x="123.0" y="-5.0" />
+              <point x="313.0" y="1856.4077471967387" />
+              <point x="393.0" y="1764.1855249745165" />
+              <point x="-99.0" y="-0.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.boot.autoconfigure.web.DispatcherServletAutoConfiguration.DispatcherServletConfiguration;bean_name=dispatcherServletConfiguration" target="module=try_security;bean_class=org.springframework.web.multipart.MultipartResolver;bean_name=multipartResolver">
+              <point x="93.0" y="-1.666666666666515" />
+              <point x="313.0" y="1612.51885830785" />
+              <point x="393.0" y="1584.1855249745165" />
+              <point x="-57.5" y="-0.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.boot.autoconfigure.web.WebMvcAutoConfiguration.EnableWebMvcConfiguration;bean_name=enableWebMvcConfiguration" target="module=try_security;bean_class=org.springframework.format.support.FormattingConversionService;bean_name=mvcConversionService">
+              <point x="89.0" y="7.222222222222172" />
+              <point x="743.0" y="1217.2222222222222" />
+              <point x="823.0" y="1618.9077471967387" />
+              <point x="-71.0" y="-0.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=com.trysecuritty.config.WebSecurityConfig;bean_name=webSecurityConfig" target="module=try_security;bean_class=com.trysecuritty.auth.service.UserDetailsServiceImpl;bean_name=userDetailsServiceImpl">
+              <point x="-61.0" y="8.0" />
+              <point x="393.0" y="2088.3876146788984" />
+              <point x="393.0" y="2996.387614678899" />
+              <point x="-70.0" y="-6.666666666666515" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.boot.autoconfigure.orm.jpa.HibernateJpaAutoConfiguration;bean_name=hibernateJpaAutoConfiguration" target="module=try_security;bean_class=org.springframework.transaction.PlatformTransactionManager;bean_name=transactionManager">
+              <point x="94.5" y="-5.0" />
+              <point x="1796.0" y="280.0" />
+              <point x="1876.0" y="200.0" />
+              <point x="-64.0" y="5.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=com.trysecuritty.WebApplication;bean_name=webApplication" target="module=try_security;bean_class=com.trysecuritty.auth.repository.UserRepository;bean_name=userRepository">
+              <point x="52.5" y="-3.75" />
+              <point x="313.0" y="2996.8244138634054" />
+              <point x="393.0" y="3058.054281345565" />
+              <point x="-50.0" y="-5.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.boot.autoconfigure.web.WebMvcAutoConfiguration.EnableWebMvcConfiguration;bean_name=enableWebMvcConfiguration" target="module=try_security;bean_class=org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter;bean_name=requestMappingHandlerAdapter">
+              <point x="89.0" y="-1.6666666666666288" />
+              <point x="743.0" y="1208.3333333333335" />
+              <point x="823.0" y="1134.1855249745165" />
+              <point x="-96.5" y="-0.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.boot.autoconfigure.security.SpringBootWebSecurityConfiguration;bean_name=springBootWebSecurityConfiguration" target="module=try_security;bean_class=org.springframework.boot.autoconfigure.security.SpringBootWebSecurityConfiguration.IgnoredPathsWebSecurityConfigurerAdapter;bean_name=ignoredPathsWebSecurityConfigurerAdapter">
+              <point x="110.0" y="-0.0" />
+              <point x="743.0" y="2523.054281345565" />
+              <point x="823.0" y="2351.554281345565" />
+              <point x="-128.5" y="4.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=com.trysecuritty.WebApplication;bean_name=webApplication" target="module=try_security;bean_class=com.trysecuritty.auth.web.UserController;bean_name=userController">
+              <point x="52.5" y="6.25" />
+              <point x="313.0" y="3006.8244138634054" />
+              <point x="393.0" y="3308.054281345565" />
+              <point x="-48.5" y="5.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=com.trysecuritty.config.WebSecurityConfig;bean_name=webSecurityConfig" target="module=try_security;bean_class=org.springframework.security.config.annotation.authentication.builders.AuthenticationManagerBuilder;bean_name=authenticationManagerBuilder">
+              <point x="61.0" y="-8.0" />
+              <point x="743.0" y="2072.3876146788984" />
+              <point x="823.0" y="1878.0555555555554" />
+              <point x="-91.5" y="5.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.boot.autoconfigure.web.WebMvcAutoConfiguration.WebMvcAutoConfigurationAdapter;bean_name=webMvcAutoConfigurationAdapter" target="module=try_security;bean_class=org.springframework.web.context.WebApplicationContext;bean_name=webApplicationContext">
+              <point x="104.5" y="7.5" />
+              <point x="313.0" y="1021.6855249745165" />
+              <point x="393.0" y="1268.3333333333333" />
+              <point x="-73.0" y="-1.6666666666667425" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.boot.autoconfigure.web.WebMvcAutoConfiguration.EnableWebMvcConfiguration;bean_name=enableWebMvcConfiguration" target="module=try_security;bean_class=org.springframework.web.util.UrlPathHelper;bean_name=mvcUrlPathHelper">
+              <point x="89.0" y="-0.5555555555555429" />
+              <point x="743.0" y="1209.4444444444443" />
+              <point x="823.0" y="1194.1855249745165" />
+              <point x="-59.5" y="-0.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.boot.autoconfigure.web.WebMvcAutoConfiguration.EnableWebMvcConfiguration;bean_name=enableWebMvcConfiguration" target="module=try_security;bean_class=org.springframework.validation.Validator;bean_name=mvcValidator">
+              <point x="89.0" y="-3.888888888888914" />
+              <point x="743.0" y="1206.111111111111" />
+              <point x="823.0" y="1014.1855249745165" />
+              <point x="-46.0" y="-0.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=com.trysecuritty.auth.service.UserServiceImpl;bean_name=userServiceImpl" target="module=try_security;bean_class=com.trysecuritty.auth.repository.UserRepository;bean_name=userRepository">
+              <point x="-52.5" y="-6.666666666666515" />
+              <point x="413.0" y="3236.387614678899" />
+              <point x="413.0" y="3068.054281345565" />
+              <point x="-50.0" y="5.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.boot.autoconfigure.orm.jpa.HibernateJpaAutoConfiguration;bean_name=hibernateJpaAutoConfiguration" target="module=try_security;bean_class=org.springframework.orm.jpa.JpaVendorAdapter;bean_name=jpaVendorAdapter">
+              <point x="94.5" y="-1.6666666666666856" />
+              <point x="1796.0" y="283.3333333333333" />
+              <point x="1876.0" y="255.0" />
+              <point x="-59.0" y="-0.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=com.trysecuritty.WebApplication;bean_name=webApplication" target="module=try_security;bean_class=com.trysecuritty.auth.service.UserDetailsServiceImpl;bean_name=userDetailsServiceImpl">
+              <point x="52.5" y="-6.25" />
+              <point x="313.0" y="2994.3244138634054" />
+              <point x="393.0" y="3003.054281345565" />
+              <point x="-70.0" y="-0.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.boot.autoconfigure.jdbc.DataSourceTransactionManagerAutoConfiguration;bean_name=dataSourceTransactionManagerAutoConfiguration" target="module=try_security;bean_class=javax.sql.DataSource;bean_name=dataSource">
+              <point x="145.0" y="5.0" />
+              <point x="1876.0" y="496.0119047619047" />
+              <point x="-40.5" y="-2.5" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.boot.autoconfigure.web.WebMvcAutoConfiguration.WebMvcAutoConfigurationAdapter;bean_name=webMvcAutoConfigurationAdapter" target="module=try_security;bean_class=org.springframework.web.servlet.view.InternalResourceViewResolver;bean_name=defaultViewResolver">
+              <point x="104.5" y="4.166666666666686" />
+              <point x="313.0" y="1018.3521916411833" />
+              <point x="393.0" y="1150.0" />
+              <point x="-64.0" y="-0.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=com.trysecuritty.WebApplication;bean_name=webApplication" target="module=try_security;bean_class=com.trysecuritty.config.WebSecurityConfig;bean_name=webSecurityConfig">
+              <point x="52.5" y="-8.75" />
+              <point x="313.0" y="2991.8244138634054" />
+              <point x="393.0" y="2084.3876146788984" />
+              <point x="-61.0" y="4.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=com.trysecuritty.auth.web.UserController;bean_name=userController" target="module=try_security;bean_class=com.trysecuritty.auth.validator.UserValidator;bean_name=userValidator">
+              <point x="0.0" y="10.0" />
+              <point x="0.0" y="-10.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.boot.autoconfigure.web.WebMvcAutoConfiguration.EnableWebMvcConfiguration;bean_name=enableWebMvcConfiguration" target="module=try_security;bean_class=org.springframework.web.servlet.HandlerMapping;bean_name=resourceHandlerMapping">
+              <point x="89.0" y="1.6666666666666288" />
+              <point x="743.0" y="1211.6666666666665" />
+              <point x="823.0" y="1318.9077471967387" />
+              <point x="-78.5" y="-0.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.boot.autoconfigure.jdbc.DataSourceTransactionManagerAutoConfiguration;bean_name=dataSourceTransactionManagerAutoConfiguration" target="module=try_security;bean_class=org.springframework.jdbc.datasource.DataSourceTransactionManager;bean_name=transactionManager">
+              <point x="145.0" y="-5.0" />
+              <point x="1876.0" y="440.0" />
+              <point x="-64.0" y="5.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.boot.autoconfigure.web.WebMvcAutoConfiguration.EnableWebMvcConfiguration;bean_name=enableWebMvcConfiguration" target="module=try_security;bean_class=org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping;bean_name=beanNameHandlerMapping">
+              <point x="89.0" y="-8.333333333333371" />
+              <point x="743.0" y="1201.6666666666665" />
+              <point x="823.0" y="774.1855249745165" />
+              <point x="-85.0" y="-0.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.security.config.annotation.web.configuration.WebSecurityConfiguration;bean_name=webSecurityConfiguration" target="module=try_security;bean_class=org.springframework.security.context.DelegatingApplicationListener;bean_name=delegatingApplicationListener">
+              <point x="80.0" y="-4.0" />
+              <point x="1105.0" y="1989.0555555555554" />
+              <point x="1185.0" y="1918.9077471967387" />
+              <point x="-90.0" y="-0.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.boot.autoconfigure.cache.CacheAutoConfiguration.CacheManagerValidator;bean_name=cacheAutoConfigurationValidator" target="module=try_security;bean_class=org.springframework.boot.autoconfigure.cache.CacheProperties;bean_name=spring.cache.CONFIGURATION_PROPERTIES">
+              <point x="100.0" y="-0.0" />
+              <point x="-128.0" y="-0.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.boot.autoconfigure.web.HttpMessageConvertersAutoConfiguration;bean_name=httpMessageConvertersAutoConfiguration" target="module=try_security;bean_class=org.springframework.boot.autoconfigure.web.HttpMessageConverters;bean_name=messageConverters">
+              <point x="123.5" y="-2.5" />
+              <point x="313.0" y="217.5" />
+              <point x="393.0" y="190.0" />
+              <point x="-62.5" y="-0.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.boot.autoconfigure.security.SecurityFilterAutoConfiguration;bean_name=securityFilterAutoConfiguration" target="module=try_security;bean_class=org.springframework.boot.autoconfigure.security.SecurityProperties;bean_name=securityProperties">
+              <point x="94.5" y="-5.0" />
+              <point x="313.0" y="2128.0744138634054" />
+              <point x="393.0" y="2172.054281345565" />
+              <point x="-58.0" y="5.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration.JpaWebConfiguration.JpaWebMvcConfiguration;bean_name=jpaWebMvcConfiguration" target="module=try_security;bean_class=org.springframework.orm.jpa.support.OpenEntityManagerInViewInterceptor;bean_name=openEntityManagerInViewInterceptor">
+              <point x="79.5" y="-0.0" />
+              <point x="-109.5" y="-0.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=com.trysecuritty.config.WebSecurityConfig;bean_name=webSecurityConfig" target="module=try_security;bean_class=org.springframework.security.config.annotation.web.configuration.WebSecurityConfiguration;bean_name=webSecurityConfiguration">
+              <point x="61.0" y="-0.0" />
+              <point x="743.0" y="2080.3876146788984" />
+              <point x="823.0" y="1998.0555555555554" />
+              <point x="-80.0" y="5.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=com.trysecuritty.auth.web.UserController;bean_name=userController" target="module=try_security;bean_class=com.trysecuritty.auth.service.UserServiceImpl;bean_name=userServiceImpl">
+              <point x="0.0" y="-10.0" />
+              <point x="0.0" y="10.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.boot.autoconfigure.web.HttpMessageConvertersAutoConfiguration;bean_name=httpMessageConvertersAutoConfiguration" target="module=try_security;bean_class=org.springframework.http.converter.json.MappingJackson2HttpMessageConverter;bean_name=mappingJackson2HttpMessageConverter">
+              <point x="123.5" y="7.5" />
+              <point x="313.0" y="227.5" />
+              <point x="393.0" y="303.33333333333326" />
+              <point x="-119.5" y="-6.666666666666686" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.boot.autoconfigure.orm.jpa.HibernateJpaAutoConfiguration;bean_name=hibernateJpaAutoConfiguration" target="module=try_security;bean_class=org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean;bean_name=entityManagerFactory">
+              <point x="94.5" y="1.6666666666666856" />
+              <point x="1796.0" y="286.6666666666667" />
+              <point x="1876.0" y="315.0" />
+              <point x="-69.0" y="-0.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.boot.autoconfigure.jmx.JmxAutoConfiguration;bean_name=jmxAutoConfiguration" target="module=try_security;bean_class=javax.management.MBeanServer;bean_name=mbeanServer">
+              <point x="70.5" y="6.666666666666671" />
+              <point x="3323.0" y="130.0" />
+              <point x="-45.5" y="-0.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.boot.autoconfigure.web.WebMvcAutoConfiguration;bean_name=webMvcAutoConfiguration" target="module=try_security;bean_class=org.springframework.boot.context.web.OrderedHiddenHttpMethodFilter;bean_name=hiddenHttpMethodFilter">
+              <point x="83.5" y="-5.0" />
+              <point x="-75.5" y="-0.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.boot.autoconfigure.jmx.JmxAutoConfiguration;bean_name=jmxAutoConfiguration" target="module=try_security;bean_class=org.springframework.jmx.export.annotation.AnnotationMBeanExporter;bean_name=mbeanExporter">
+              <point x="70.5" y="-6.666666666666664" />
+              <point x="3323.0" y="10.0" />
+              <point x="-51.0" y="-0.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.boot.autoconfigure.web.DispatcherServletAutoConfiguration.DispatcherServletConfiguration;bean_name=dispatcherServletConfiguration" target="module=try_security;bean_class=org.springframework.web.servlet.DispatcherServlet;bean_name=dispatcherServlet">
+              <point x="93.0" y="1.666666666666515" />
+              <point x="313.0" y="1615.852191641183" />
+              <point x="393.0" y="1644.1855249745165" />
+              <point x="-56.0" y="-0.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.boot.autoconfigure.transaction.TransactionAutoConfiguration;bean_name=transactionAutoConfiguration" target="module=try_security;bean_class=org.springframework.transaction.support.TransactionTemplate;bean_name=transactionTemplate">
+              <point x="90.5" y="-7.5" />
+              <point x="1796.0" y="155.0" />
+              <point x="1876.0" y="75.0" />
+              <point x="-65.5" y="-0.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.boot.autoconfigure.web.WebMvcAutoConfiguration.WebMvcAutoConfigurationAdapter;bean_name=webMvcAutoConfigurationAdapter" target="module=try_security;bean_class=org.springframework.format.Formatter;bean_name=dateFormatter">
+              <point x="104.5" y="-2.5" />
+              <point x="313.0" y="1011.6855249745165" />
+              <point x="393.0" y="910.0" />
+              <point x="-48.5" y="-0.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.boot.autoconfigure.web.MultipartAutoConfiguration;bean_name=multipartAutoConfiguration" target="module=try_security;bean_class=javax.servlet.MultipartConfigElement;bean_name=multipartConfigElement">
+              <point x="85.5" y="6.666666666666515" />
+              <point x="313.0" y="1470.852191641183" />
+              <point x="393.0" y="1519.1855249745165" />
+              <point x="-75.0" y="-5.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=com.trysecuritty.config.WebSecurityConfig;bean_name=webSecurityConfig" target="module=try_security;bean_class=org.springframework.security.config.annotation.web.configuration.SpringWebMvcImportSelector;bean_name=springWebMvcImportSelector">
+              <point x="61.0" y="4.0" />
+              <point x="743.0" y="2084.3876146788984" />
+              <point x="823.0" y="2191.3876146788984" />
+              <point x="-90.0" y="-0.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.boot.autoconfigure.web.WebMvcAutoConfiguration.WebMvcAutoConfigurationAdapter.FaviconConfiguration;bean_name=faviconConfiguration" target="module=try_security;bean_class=org.springframework.web.servlet.handler.SimpleUrlHandlerMapping;bean_name=faviconHandlerMapping">
+              <point x="67.5" y="-0.0" />
+              <point x="313.0" y="744.1855249745165" />
+              <point x="393.0" y="730.0" />
+              <point x="-75.5" y="-0.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.boot.autoconfigure.security.SpringBootWebSecurityConfiguration.IgnoredPathsWebSecurityConfigurerAdapter;bean_name=ignoredPathsWebSecurityConfigurerAdapter" target="module=try_security;bean_class=org.springframework.boot.autoconfigure.web.ServerProperties;bean_name=serverProperties">
+              <point x="-128.5" y="-0.0" />
+              <point x="823.0" y="2347.554281345565" />
+              <point x="743.0" y="2403.054281345565" />
+              <point x="53.0" y="-0.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.boot.autoconfigure.security.SecurityAutoConfiguration;bean_name=securityAutoConfiguration" target="module=try_security;bean_class=org.springframework.security.authentication.DefaultAuthenticationEventPublisher;bean_name=authenticationEventPublisher">
+              <point x="81.5" y="-0.0" />
+              <point x="313.0" y="2430.5744138634054" />
+              <point x="393.0" y="2583.054281345565" />
+              <point x="-88.5" y="-0.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.boot.autoconfigure.web.ErrorMvcAutoConfiguration.WhitelabelErrorViewConfiguration;bean_name=whitelabelErrorViewConfiguration" target="module=try_security;bean_class=org.springframework.web.servlet.View;bean_name=error">
+              <point x="100.0" y="-5.0" />
+              <point x="864.0" y="3428.054281345565" />
+              <point x="-23.5" y="-0.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.boot.autoconfigure.web.ErrorMvcAutoConfiguration.WhitelabelErrorViewConfiguration;bean_name=whitelabelErrorViewConfiguration" target="module=try_security;bean_class=org.springframework.web.servlet.view.BeanNameViewResolver;bean_name=beanNameViewResolver">
+              <point x="100.0" y="5.0" />
+              <point x="-74.5" y="-0.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.boot.autoconfigure.transaction.TransactionAutoConfiguration;bean_name=transactionAutoConfiguration" target="module=try_security;bean_class=org.springframework.transaction.jta.JtaTransactionManager;bean_name=transactionManager">
+              <point x="90.5" y="-2.5" />
+              <point x="1796.0" y="160.0" />
+              <point x="1876.0" y="135.0" />
+              <point x="-64.0" y="-0.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.boot.autoconfigure.web.HttpEncodingAutoConfiguration;bean_name=httpEncodingAutoConfiguration" target="module=try_security;bean_class=org.springframework.web.filter.CharacterEncodingFilter;bean_name=characterEncodingFilter">
+              <point x="97.0" y="-5.0" />
+              <point x="-73.5" y="-0.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration;bean_name=dataSourceAutoConfiguration" target="module=try_security;bean_class=org.springframework.boot.autoconfigure.jdbc.metadata.DataSourcePoolMetadataProvidersConfiguration;bean_name=dataSourcePoolMetadataProvidersConfiguration">
+              <point x="90.5" y="5.0" />
+              <point x="-139.0" y="-0.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.boot.autoconfigure.security.SpringBootWebSecurityConfiguration.ApplicationWebSecurityConfigurerAdapter;bean_name=applicationWebSecurityConfigurerAdapter" target="module=try_security;bean_class=org.springframework.security.config.annotation.ObjectPostProcessor;bean_name=objectPostProcessor">
+              <point x="123.0" y="1.6666666666667425" />
+              <point x="313.0" y="1863.0744138634054" />
+              <point x="393.0" y="1958.0555555555554" />
+              <point x="-64.5" y="-0.0" />
+            </edge>
+            <edge source="module=try_security;bean_class=org.springframework.security.config.annotation.configuration.ObjectPostProcessorConfiguration;bean_name=objectPostProcessorConfiguration" target="module=try_security;bean_class=org.springframework.security.config.annotation.ObjectPostProcessor;bean_name=objectPostProcessor">
+              <point x="-101.5" y="-5.0" />
+              <point x="823.0" y="1928.0555555555554" />
+              <point x="743.0" y="1953.0555555555554" />
+              <point x="64.5" y="-5.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="550.0" y="2621.0" />
+          <SelectedNodes>
+            <node>module=try_security;bean_class=org.springframework.boot.autoconfigure.security.AuthenticationManagerConfiguration;bean_name=authenticationManagerConfiguration</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Local context</Category>
+            <Category>Properties</Category>
+          </Categories>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/1.3.5.RELEASE/spring-boot-autoconfigure-1.3.5.RELEASE.jar!/org/springframework/boot/autoconfigure/security/AuthenticationManagerConfiguration.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="5" column="46" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/maven/lib/maven.jar!/schemas/maven-4.0.0.xsd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-319">
+          <caret line="1903" column="6" selection-start-line="1903" selection-start-column="6" selection-end-line="1903" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/login.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="19" selection-end-line="2" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/trysecuritty/auth/service/UserDetailsServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="27" column="36" selection-start-line="27" selection-start-column="36" selection-end-line="27" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/trysecuritty/auth/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/trysecuritty/auth/service/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/trysecuritty/auth/repository/RoleRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/trysecuritty/auth/service/SecurityService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/trysecuritty/auth/service/SecurityServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="16" column="43" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/trysecuritty/WebApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="36" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/trysecuritty/config/WebSecurityConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="30" column="29" selection-start-line="30" selection-start-column="29" selection-end-line="30" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/validation.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="25" selection-start-line="2" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/registration.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="17" lean-forward="true" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>vanilla-dataTables</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>try_security</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
